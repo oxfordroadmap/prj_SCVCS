@@ -34,15 +34,15 @@ We tackle a critical challenge: bridging the disconnection between advanced manu
 ### Key Innovations
 
 ::: {.feature-box style="background: #E8F4F8; padding: 15px; border-left: 4px solid #0078D4; margin-bottom: 15px;"}
-**RealSoS Engine** Multi-rate cybernetic control loops for real-time yield & emission/footprint balancing
+🔬 **RealSoS Engine** Multi-rate data streams for real-time yield & emission/footprint balancing
 :::
 
 ::: {.feature-box style="background: #FFF4E6; padding: 15px; border-left: 4px solid #F0AD4E; margin-bottom: 15px;"}
-**GuardSoS Gateway** Hardware-rooted Trusted Execution Environments for data sovereignty
+🛡️ **GuardSoS Gateway** Hardware-rooted Trusted Execution Environments for data sovereignty and cybernetic control loops via the SIPAEA
 :::
 
 ::: {.feature-box style="background: #E8F5E9; padding: 15px; border-left: 4px solid #28A745; margin-bottom: 15px;"}
-**AuditSoS Framework** Regeneratively accountable accounting for Scope 3 emission and SSbD lifecycle footprints
+♻️ **AuditSoS Framework** Regeneratively accountable accounting for Scope 3 emission and SSbD lifecycle footprints
 :::
 
 :::
