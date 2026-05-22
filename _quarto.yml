@@ -34,10 +34,10 @@ website:
         text: Home
       - text: "publications"
         menu:
-          - text: "Working Papers" # <--- Add this new item
+          - text: "Working Papers"
             href: publications/working-papers.qmd # <--- And link to your new file
           # Add other publication types if they exist, like "Conference Papers" if you create a dedicated page for them later
-       - href: project.qmd
+      - href: project.qmd
         text: Project
       - href: team.qmd
         text: Team & Skills

@@ -42,9 +42,9 @@ Crucially, these advanced technical layers are operationalized within the corpor
 	- **Deliverables**:
 		- **D5.1: Regenerative Socio-Technical AI Reference Architecture** – An alternate technical blueprint mapping AI infrastructure flows from "Atoms to Values" instead of simple energy consumption.
 		- **D5.2: Metrology-Grounded Digital Product Passport (DPP) Schema** – A standardized metadata schema for hardware lifecycles tracking physical material footprints, cooling-water energy connections, and electronic recycling pathways.
-- 999 [Skills.md] Orchestrating Sustainable AI and Semiconductor Ecosystems: RegTech & FinTech Frameworks
+- 999 [Skills.md](./deliverables/Skills.md) Orchestrating Sustainable AI and Semiconductor Ecosystems: RegTech & FinTech Frameworks
 	- This module outlines the foundational research paradigms, educational components, engineering innovations, and structural competencies required to run the specialized manufacturing services generated under the SCVCS research infrastructure.
-	- [Skills.md](Skills.md)
+	- [Skills.md](./deliverables/Skills.md)
 
 ## Notes. on the Proposal
 - submission-aligned with the updated **Horizon Europe 2026–2027 Standard Application Form for Research and Innovation (R&I) Actions**
