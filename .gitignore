@@ -1,0 +1,27 @@
+# Local folder
+_local_/
+
+# Obsidian
+.obsidian/
+*.obsidian
+.DS_Store
+
+# Build outputs
+_site/
+.quarto/
+
+# Dependencies
+node_modules/
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+Thumbs.db
+.DS_Store
