@@ -41,10 +41,10 @@ Engineer autonomous agentic workflows running Policy-as-Code within secure hardw
 
 #### **Objective 3: AuditSoS (Auditing & Asset Tokenization)**
 
-Institutionalize an embedded technical auditing tool utilizing metabolic circuit accounting to track Scope 3 lifecycle footprints and generate verified Digital Product Passports (DPPs).
+Institutionalize an embedded technical auditing tool utilizing regenerative socio-technical accounting to track Scope 3 lifecycle footprints and generate verified Digital Product Passports (DPPs).
 
 **Key Deliverables:**
-- Metabolic accounting frameworks
+- Regenerative socio-technical accounting frameworks
 - DPP schema (XML/JSON-LD)
 - Green fintech integration APIs
 
@@ -102,7 +102,7 @@ SCVCS integrates four core domains:
 
 - **Physical Metrology & Semiconductor Engineering**: Sub-2nm process analytics and Virtual Metrology
 - **Advanced Cryptography & Computer Science**: Hardware-rooted TEEs and IDS data fabric architectures
-- **Ecological Economics & Material Science**: Metabolic accounting and lifecycle footprinting
+- **Ecological Economics & Material Science**: Regenerative socio-technical accounting and lifecycle footprinting
 - **Spatial Logistics & Supply Chain Policy**: Cross-border governance across EU-ASEAN corridors
 
 ---
@@ -140,7 +140,7 @@ SCVCS integrates four core domains:
 | **WP1** | Data Fabric & Knowledge Services | - | M1-M36 | D1.1: Knowledge Portal |
 | **WP2** | Cybernetic Continuum (RealSoS) | - | M4-M30 | D2.1: Software Stack |
 | **WP3** | Security & Governance (GuardSoS) | - | M6-M32 | D3.1: Policy Compiler |
-| **WP4** | Metabolic Auditing (AuditSoS) | - | M8-M34 | D4.1: Audit Framework |
+| **WP4** | Regenerative socio-technical Auditing (AuditSoS) | - | M8-M34 | D4.1: Audit Framework |
 | **WP5** | EU-ASEAN Corridor Deployment | - | M12-M36 | D5.1: Deployment Playbook |
 
 **Total Person-Months**: 289 PM  

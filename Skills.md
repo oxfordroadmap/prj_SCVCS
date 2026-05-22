@@ -27,7 +27,7 @@ mindmap
 ### A. Material Depth & Metrology Science (Physical Layer)
 * **Virtual Metrology (VM) Engineering:** Ability to design and maintain deep learning and novelty detection models that infer physical layer deviations and product quality parameters directly from sensor streams without destructive physical inspections.
 * **Angstrom-Scale Analytical Systems:** Skills in operating and integrating high-speed Atomic Force Microscopy (AFM) and inline statistical process control (SPC) data loops into automated telemetry streams.
-* **Industrial Metabolic Tracking:** Capacity to accurately audit facility-level resource connectivity—specifically the intersection between cooling water reclamation networks, thermal dissipation, and power configurations.
+* **Industrial Regenerative Socio-technical Accounting:** Capacity to accurately audit facility-level resource connectivity—specifically the intersection between cooling water reclamation networks, thermal dissipation, and power configurations, by advancing the foundational concept and practices surrounding "Material Flow Cost Accounting" (MFCA), defined under ISO 14051.
 
 ### B. Cognitive Continuum Engineering (Cybernetic Layer)
 * **SIPAEA Framework Orchestration:** Skill in configuring cybernetic feedback systems that utilize both negative (stabilizing) and positive (amplifying) control loops across edge-cloud nodes to ensure real-time facility homeostasis.

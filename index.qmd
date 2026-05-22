@@ -1,28 +1,17 @@
 ---
-title: "SCVCS: Semiconductor Compliance & Value Chain Sovereignty"
+title: "SCVCS: The-Safe-and-Sustainable-by-Design (SSbD) Chips Value Chain Services"
 subtitle: "EU-ASEAN Research Initiative for Sustainable Semiconductor Manufacturing"
 page-layout: full
 ---
 
-<div class="gradient-text">
-  <div class="welcome-headline">
-    Welcome to SCVCS
-  </div>
-  <div class="welcome-subheadline">
-    Bridging Atoms to Law: Sustainable Semiconductor Supply Chains
-  </div>
-</div>
+::: {.content-container .scvcs-background .welcome}
+::: {.grid}
 
-::::{.scvcs-background}
-::: {.content-container}
-::: {.welcome}
-
-::: grid
 ::: {.g-col-12 .g-col-lg-6 .welcome-text .sand-background style="padding: 20px; border-radius: 8px;"}
 
 ## About SCVCS
 
-The **Semiconductor Compliance & Value Chain Sovereignty (SCVCS)** initiative is a cutting-edge research infrastructure designed to transform how the global semiconductor industry manages environmental, social, and governance (ESG) compliance while maintaining data sovereignty across transnational borders.
+The **Safe-and-Sustainable-by-Design (SSbD) Chips Value Chain Services (SCVCS)** initiative is a cutting-edge research infrastructure designed to transform how the global semiconductor industry manages environmental, social, and governance (ESG) compliance while maintaining data sovereignty across transnational borders, thereby achieving the proposed Regenerative Socio-Technical (RST) roadmap by ensuring a global semcononduer-petro-chemical value chain that is regeneratively accountable, environmentally safe, and even geopolitically resilient.  
 
 We tackle a critical challenge: bridging the disconnection between advanced manufacturing physics and absolute sustainability metrics through an **Atoms-to-Law** framework that integrates:
 
@@ -38,25 +27,22 @@ We tackle a critical challenge: bridging the disconnection between advanced manu
 ### Key Innovations
 
 ::: {.feature-box style="background: #E8F4F8; padding: 15px; border-left: 4px solid #0078D4; margin-bottom: 15px;"}
-**RealSoS Engine**  
-Multi-rate cybernetic control loops for real-time yield & emissions balancing
+**RealSoS Engine** Multi-rate cybernetic control loops for real-time yield & emission/footprint balancing
 :::
 
 ::: {.feature-box style="background: #FFF4E6; padding: 15px; border-left: 4px solid #F0AD4E; margin-bottom: 15px;"}
-**GuardSoS Gateway**  
-Hardware-rooted Trusted Execution Environments for data sovereignty
+**GuardSoS Gateway** Hardware-rooted Trusted Execution Environments for data sovereignty
 :::
 
 ::: {.feature-box style="background: #E8F5E9; padding: 15px; border-left: 4px solid #28A745; margin-bottom: 15px;"}
-**AuditSoS Framework**  
-Metabolic accounting for Scope 3 lifecycle footprints
+**AuditSoS Framework** Regeneratively accountable accounting for Scope 3 emission and SSbD lifecycle footprints
 :::
 
 :::
 
 :::
-
 :::
+
 
 ---
 
@@ -99,7 +85,7 @@ Autonomous Policy-as-Code workflows in secure TEE enclaves managing cross-border
 ### Objective 3: AuditSoS
 **Auditing & Asset Tokenization**
 
-Metabolic circuit accounting generating certified digital product passports for sustainable supply chains.
+**Regeneratively accountable** and **environmentally safe** accounting leveraging certified digital product passports for sustainable supply chains.
 :::
 :::
 

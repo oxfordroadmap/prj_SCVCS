@@ -22,7 +22,7 @@
         
     - _Objective 2 (SCVCS-Gateway):_ To engineer and deploy autonomous agentic workflows running _Policy-as-Code_ within secure hardware-rooted TEE enclaves... [Quantifiable indicators & milestones].
         
-    - _Objective 3 (SCVCS-Design):_ To institutionalize an embedded technical auditing tool utilizing metabolic circuit accounting... [Quantifiable indicators & milestones].
+    - _Objective 3 (SCVCS-Design):_ To institutionalize an embedded technical auditing tool utilizing **regeneratively accountable** and **environmentally safe** accounting leveraging certified digital product passports for sustainable supply chains.... [Quantifiable indicators & milestones].
         
 - **Ambition and Advance Beyond the State-of-the-Art:** (Contrast SCVCS with static paper audits and unconstrained compute stacks; clarify the innovation's performance breakthroughs).
     
@@ -105,18 +105,17 @@
     
 - **Deliverables:** D3.1 Attested Professional Proxy Policy-as-Code Engine [Month 18, Confidential/Open-Core].
     
-
-#### Work Package 4: Metabolic Circuits & Eco-Finance Auditing Tools (SCVCS-Design)
+#### Work Package 4: Regenerative Accounting & Eco-Finance Auditing Tools (SCVCS-Design)
 
 - **Lead Beneficiary:** [Insert Lead Institution]
     
 - **Person-Months:** [Insert Total PMs]
     
-- **Objectives:** To deploy thermodynamic accounting algorithms on edge nodes to measure lifecycle planetary boundaries.
+- **Objectives:** To deploy integrated material and thermodynamic accounting algorithms on edge nodes to measure lifecycle planetary boundaries.
     
 - **Description of Work:** (Detail calculations for Scope 3 emissions, material parsimony models, and asset de-risking metrics).
     
-- **Deliverables:** D4.1 Metabolic Silicon Accounting & Venture Risk Valuation Framework [Month 24, Public].
+- **Deliverables:** D4.1 Regenerative Accounting & Venture Risk Valuation Framework [Month 24, Public].
     
 
 #### Work Package 5: Transnational Value Chain Logistics & Corridor Policy (SCVCS-Corridor)

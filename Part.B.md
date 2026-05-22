@@ -14,7 +14,7 @@
 |---|---|---|---|
 |**RealSoS**<br><br>  <br><br>_(Objective 1)_|To deliver a distributed, edge-to-cloud computing continuum chassis executing time-sensitive, multi-rate cybernetic control loops that simultaneously balance physical process yield and real-time environmental sustainability set-points.|• **KPI 1.1:** Sub-15ms loop latency for edge soft-sensing data ingestion.<br><br>  <br><br>• **KPI 1.2:** Zero performance degradation on manufacturing execution systems (MES) while processing concurrent sustainability telemetry.<br><br>  <br><br>• **KPI 1.3:** $\ge 15\%$ average reduction in water/chemical waste through real-time loop intervention.|• **MS2:** Deployment of the core SIPAEA engine onto testbench edge clusters (Month 9).<br><br>  <br><br>• **MS5:** Successful integration of virtual metrology models with facility resource monitors (Month 12).|
 |**GuardSoS**<br><br>  <br><br>_(Objective 2)_|To engineer and deploy autonomous agentic workflows running _Policy-as-Code_ within secure hardware-rooted TEE enclaves to handle automated cross-border compliance auditing without risking proprietary intellectual property.|• **KPI 2.1:** $100\%$ validation rate of machine-executable CSDDD and REACH rules within enclaves.<br><br>  <br><br>• **KPI 2.2:** Cryptographic attestation verification latencies under $200\text{ms}$.<br><br>  <br><br>• **KPI 2.3:** Mathematical proof of zero out-of-boundary leakage of fab yield telemetry.|• **MS3:** Secure TEE container environments initialized with active Policy-as-Code compiler (Month 15).<br><br>  <br><br>• **MS6:** Live cross-border cryptographic data fabric trial across EU-ASEAN connectors (Month 18).|
-|**AuditSoS**<br><br>  <br><br>_(Objective 3)_|To institutionalize an embedded technical auditing tool utilizing metabolic circuit accounting to track Scope 3 lifecycle footprints and generate metrology-grounded Digital Product Passports (DPP).|• **KPI 3.1:** Automated matching of physical metrology outputs to downstream DPP schemas with $>99.8\%$ provenance tracking.<br><br>  <br><br>• **KPI 3.2:** Direct ledger compliance tracking against ITU-T L.1470/L.1480 carbon trajectories.|• **MS1:** Finalization of the unified SSbD metrology-to-ESG translation data model (Month 6).<br><br>  <br><br>• **MS4:** First end-to-end metabolic ledger entry generated for a sub-2nm wafer lot (Month 24).|
+|**AuditSoS**<br><br>  <br><br>_(Objective 3)_|To institutionalize an embedded technical auditing tool utilizing regenerative socio-technical accounting to track Scope 3 lifecycle footprints and generate metrology-grounded Digital Product Passports (DPP).|• **KPI 3.1:** Automated matching of physical metrology outputs to downstream DPP schemas with $>99.8\%$ provenance tracking.<br><br>  <br><br>• **KPI 3.2:** Direct ledger compliance tracking against ITU-T L.1470/L.1480 carbon trajectories.|• **MS1:** Finalization of the unified SSbD metrology-to-ESG translation data model (Month 6).<br><br>  <br><br>• **MS4:** First end-to-end regenerative socio-technical ledger entry generated for a sub-2nm wafer lot (Month 24).|
 
 #### Ambition and Advance Beyond the State-of-the-Art
 
@@ -22,7 +22,7 @@ The current state-of-the-art in semiconductor compliance is defined by static pa
 
 SCVCS breaks past these limitations by introducing a **Regenerative Socio-Technical (RST) framework** that transforms compliance from an administrative cost into an automated, inline manufacturing service. Instead of relying on post-production estimates, SCVCS links Virtual Metrology (VM) algorithms directly to a multi-loop cybernetic governance mechanism (the SIPAEA framework: Sense-Interpret-Plan-Act-Evaluate-Adapt). This transition enables smart fabs to dynamically adjust process recipes based on real-time ecosystem constraints, such as localized municipal water stress or variable electricity grid carbon intensity.
 
-Furthermore, by replacing trust-based human auditing with autonomous agentic workflows acting as hardware-secured "Professional Proxies" in Trusted Execution Environments (TEEs), SCVCS establishes a data fabric where compliance verification is decoupled from the exposure of manufacturing trade secrets. The project updates the linear scaling paradigm of compute hardware into a closed-loop metabolic circuit, providing a clear path to build a transparent, risk-mitigated, and fundable global semiconductor commons.
+Furthermore, by replacing trust-based human auditing with autonomous agentic workflows acting as hardware-secured "Professional Proxies" in Trusted Execution Environments (TEEs), SCVCS establishes a data fabric where compliance verification is decoupled from the exposure of manufacturing trade secrets. The project updates the linear scaling paradigm of compute hardware into a set of interconnected regenerative socio-technical accounting/auditing closed-loops, providing a clear path to build a transparent, risk-mitigated, and fundable global semiconductor commons.
 
 ### 1.2 Methodology
 
@@ -71,7 +71,7 @@ The proposal brings together four core domains to create an actionable operation
     
 - **Advanced Cryptography and Computer Science:** Deploying hardware-rooted Trusted Execution Environments (TEEs) and International Data Spaces (IDS) data fabric architectures to maintain structural data sovereignty.
     
-- **Ecological Economics and Material Science:** Applying Sustainable Production and Consumption (SPaC) modeling alongside metabolic accounting principles to measure resource circularity within absolute planetary boundaries.
+- **Ecological Economics and Material Science:** Applying Sustainable Production and Consumption (SPaC) modeling alongside regenerative socio-technical accounting/auditing principles to measure resource circularity within absolute planetary boundaries.
     
 - **Spatial Logistics and Supply Chain Policy:** Utilizing Global Business Services (GBS 5.0) corporate networks across critical transnational hubs (e.g., Poland, Portugal, Malaysia) to host digital compliance operations and anchor talent development workflows.
     
@@ -116,7 +116,7 @@ By deploying data-sovereign connectors across the critical EU-Hsinchu-Penang man
 
 ```mermaid
 flowchart TD
-    A["<strong>PROJECT OUTPUTS (Months 6-24)</strong><br><br>• D1.1: Multi-Scalar Knowledge Fabric Interface Portal & Standards Repository<br>• D2.1: RealSoS Engine: SIPAEA Control Chassis v1.0<br>• D3.1: GuardSoS Core: Attested Professional Proxy Policy-as-Code Compiler<br>• D4.1: AuditSoS Ledger: Metabolic Silicon Accounting & Venture Risk Framework"]
+    A["<strong>PROJECT OUTPUTS (Months 6-24)</strong><br><br>• D1.1: Multi-Scalar Knowledge Fabric Interface Portal & Standards Repository<br>• D2.1: RealSoS Engine: SIPAEA Control Chassis v1.0<br>• D3.1: GuardSoS Core: Attested Professional Proxy Policy-as-Code Compiler<br>• D4.1: AuditSoS Ledger: Regenerative socio-technical accounting/auditing & Venture Risk Framework"]
     
     B["<strong>IMMEDIATE OUTCOMES (Months 12-36)</strong><br><br>• Deployment of real-time, multi-loop yield & emissions balancing in pilot lines.<br>• Automated generation of cryptographic, audit-ready CBAM and CSDDD filings.<br>• Integration of Metrology-Grounded Digital Product Passports in supply chains."]
     
@@ -141,7 +141,7 @@ The consortium has structured targeted dissemination pathways within elite scien
 
 - **Academic & Professional Dissemination:** Research findings, system architectures, and validation profiles will be presented at premier technical forums, leveraging direct connections within the **IEEE Technology and Engineering Management Society (TEMS) Carbon Neutrality Technical Committee** and the **IEEE Joint Systems Council**. Peer-reviewed papers will target high-impact journals, including _IEEE Transactions on Semiconductor Manufacturing_ and the _International Journal of Innovation Studies (IJIS)_.
     
-- **Industrial Exploitation:** Technical framework updates, including the integration of the SSbD stakeholder agenda with industrial roadmaps, will be embedded into the **International Roadmap for Devices and Systems (IRDS™)** via active participation in the **IRDS Annual Workshops in Spain**. This ensures that the metabolic process models directly influence the capital investment plans and design practices of global hardware manufacturers.    
+- **Industrial Exploitation:** Technical framework updates, including the integration of the SSbD stakeholder agenda with industrial roadmaps, will be embedded into the **International Roadmap for Devices and Systems (IRDS™)** via active participation in the **IRDS Annual Workshops in Spain**. This ensures that the regenerative socio-technical accounting/auditing models directly influence the capital investment plans and design practices of global hardware manufacturers.    
 
 #### Standardization and Public Policy Exploitation Strategy
 
@@ -209,7 +209,7 @@ _(Legend: `===` Core software/research development; `───` Pipeline integra
 - **Deliverables:** `D1.1: Unified Knowledge Fabric Interface Portal` [Month 6, Public] – An indexed, open-access knowledge engine and standards harmonization repository.
     
 
-##### Work Package 2: Cybernetic Continuum & Edge-Cloud Software Systems (SCVCS-Runtime / RealSoS)
+##### Work Package 2: Cybernetic Continuum & Edge-Cloud Software Systems (SCVCS-RealSoS)
 
 - **Lead Beneficiary:** [Insert Lead Institution]
     
@@ -226,7 +226,7 @@ _(Legend: `===` Core software/research development; `───` Pipeline integra
 - **Deliverables:** `D2.1: RealSoS Software Architecture Control Chassis v1.0` [Month 12, Public-Code] – Containerized cybernetic orchestration software stack for multi-loop fab governance.
     
 
-##### Work Package 3: RegTech Security Enclaves & Autonomous Proxy Governance (SCVCS-Gateway / GuardSoS)
+##### Work Package 3: RegTech Security Enclaves & Autonomous Proxy Governance (SCVCS-GuardSoS)
 
 - **Lead Beneficiary:** [Insert Lead Institution]
     
@@ -243,13 +243,13 @@ _(Legend: `===` Core software/research development; `───` Pipeline integra
 - **Deliverables:** `D3.1: GuardSoS Engine: Attested Professional Proxy Policy-as-Code Compiler` [Month 18, Confidential/Open-Core] – Cryptographically validated execution gateway managing CSDDD and REACH validation logic.
     
 
-##### Work Package 4: Metabolic Circuits & Eco-Finance Auditing Tools (SCVCS-Design / AuditSoS)
+##### Work Package 4: Regenerative Socio-Technical Accounting/Auditing Tools (SCVCS-AuditSoS)
 
 - **Lead Beneficiary:** [Insert Lead Institution]
     
 - **Person-Months:** 58 PM
     
-- **Objectives:** To implement quantitative metabolic circuit accounting layers on the computing continuum, translating physical lifecycle data into investable **AuditSoS** Digital Product Passports (DPP).
+- **Objectives:** To implement quantitative Regenerative Socio-Technical Accounting/Auditing layers on the computing continuum, translating physical lifecycle data into investable **AuditSoS** Digital Product Passports (DPP).
     
 - **Description of Work:** * _Task 4.1: Thermodynamic Entropy and Scope 3 Modeling:_ Converting physical material streams, energy footprints, and processing waste into continuous circular carbon metrics.
     
@@ -257,7 +257,7 @@ _(Legend: `===` Core software/research development; `───` Pipeline integra
         
     - _Task 4.3: Green Fintech Integration API Development:_ Designing programmatic interfaces that connect audited DPP ledgers directly to institutional green bond metrics and sustainable investment indices.
         
-- **Deliverables:** `D4.1: AuditSoS Framework: Metabolic Silicon Accounting & Venture Risk Valuation` [Month 24, Public] – Quantitative toolkit and metadata blueprint for generating verified hardware DPPs.
+- **Deliverables:** `D4.1: AuditSoS Framework: Regenerative Socio-Technical Accounting/Auditing & Venture Risk Valuation` [Month 24, Public] – Quantitative toolkit and metadata blueprint for generating verified hardware DPPs.
     
 
 ##### Work Package 5: Transnational Value Chain Logistics & Corridor Policy (SCVCS-Corridor)
@@ -284,7 +284,7 @@ _(Legend: `===` Core software/research development; `───` Pipeline integra
 |**WP1**|Data Fabric & Scientometric Topology Services|BEN1-A|SCVCS-Core|45|M01|M36|
 |**WP2**|Cybernetic Continuum & Edge-Cloud Software Systems|BEN2-B|**RealSoS**|72|M04|M30|
 |**WP3**|RegTech Security Enclaves & Autonomous Proxy Governance|BEN3-C|**GuardSoS**|64|M06|M32|
-|**WP4**|Metabolic Circuits & Eco-Finance Auditing Tools|BEN4-D|**AuditSoS**|58|M08|M34|
+|**WP4**|Regenerative Socio-Technical Accounting/Auditing Tools|BEN4-D|**AuditSoS**|58|M08|M34|
 |**WP5**|Transnational Value Chain Logistics & Corridor Policy|BEN5-E|SCVCS-Corridor|50|M12|M36|
 |**Total**||||**289**|||
 
@@ -295,7 +295,7 @@ _(Legend: `===` Core software/research development; `───` Pipeline integra
 |**D1.1**|Unified Knowledge Fabric Interface Portal|WP1|BEN1-A|R/DEC|SEN/Public|M06|
 |**D2.1**|RealSoS Software Architecture Control Chassis v1.0|WP2|BEN2-B|DATA/PROG|SEN/Public|M12|
 |**D3.1**|GuardSoS Engine: Attested Professional Proxy Compiler|WP3|BEN3-C|PROG|Confidential/Open-Core|M18|
-|**D4.1**|AuditSoS Framework: Metabolic Silicon Accounting|WP4|BEN4-D|R/DATA|SEN/Public|M24|
+|**D4.1**|AuditSoS Framework: Regenerative Socio-Technical Accounting/Auditing|WP4|BEN4-D|R/DATA|SEN/Public|M24|
 |**D5.1**|EU-ASEAN Transnational Semiconductor Corridor Playbook|WP5|BEN5-E|R|SEN/Public|M36|
 
 #### Table 3.1c: List of Milestones
