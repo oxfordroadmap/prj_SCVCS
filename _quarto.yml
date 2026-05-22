@@ -36,9 +36,13 @@ website:
         menu:
           - text: "Working Papers"
             href: publications/working-papers.qmd # <--- And link to your new file
-          # Add other publication types if they exist, like "Conference Papers" if you create a dedicated page for them later
-      - href: project.qmd
-        text: Project
+      - text: "Project"
+        menu:
+          - text: "Information"
+            href: project.qmd
+          - text: "EU Part. B"
+            href: Part.B.qmd # <--- And link to your new file
+        text: 
       - href: team.qmd
         text: Team & Skills
       - href: contact.qmd

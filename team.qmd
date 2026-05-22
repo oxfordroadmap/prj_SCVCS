@@ -4,8 +4,6 @@ subtitle: "Multi-Disciplinary Expertise for Atoms-to-Law Research"
 toc: true
 ---
 
-# Team & Competencies
-
 ## Core Competency Framework
 
 SCVCS brings together expertise spanning three integrated knowledge domains:

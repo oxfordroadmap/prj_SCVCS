@@ -3,7 +3,7 @@ title: "Contact & Collaboration"
 page-layout: full
 ---
 
-# Get in Touch
+## Get in Touch
 
 Interested in joining the SCVCS research initiative or exploring collaboration opportunities?
 
