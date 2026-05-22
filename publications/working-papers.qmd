@@ -1,12 +1,8 @@
 ---
-title: "Current Working Papers"
+title: "Working Papers"
 ---
 
-## Welcome to the Masiello Group Website Repository
-This website is built with [Quarto](https://quarto.org), an open source scientific and technical publishing system.
-Note: the `_utils` directory contains helper scripts used when migrating from Wowchemy / Hugo Academic to Quarto.
-
-## Current Working Papers
+## Working Papers By Area
 
 ### 🔬 RealSoS Engine
 
@@ -73,4 +69,10 @@ use `just newperson` for creation of new directory and input prompts for new rec
 - use long-running `updates` branch for deploy previews
 - `quarto render` locally and include `_site` in version control
 - GitHub action `scp-to-server.yml` deploys to serverv
+
+---
+
+## Welcome to the SCVCS Website Repository by Footprints.CV
+This website is built with [Quarto](https://quarto.org), an open source scientific and technical publishing system.
+Note: the `_utils` directory contains helper scripts used when migrating from Wowchemy / Hugo Academic to Quarto.
 
