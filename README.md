@@ -54,3 +54,10 @@ Crucially, these advanced technical layers are operationalized within the corpor
 ---
 
 [Part B: Project Proposal - Technical Description](Part.B.md)
+
+
+---
+
+# Note.
+
+The construction of this website learns from [Masiello Group academic research group website](https://faculty.washington.edu/masiello/), with [its GitHub Repository](https://github.com/MasielloGroup/MasielloGroupWebsite).
