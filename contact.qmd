@@ -17,13 +17,13 @@ Interested in joining the SCVCS research initiative or exploring collaboration o
 ### Email
 
 **Project Coordinator**  
-[scvcs@oxfordroadmap.org](mailto:scvcs@oxfordroadmap.org)
+[scvcs@footprints.cv](mailto:scvcs@footprints.cv)
 
 **Research Inquiries**  
-[research@oxfordroadmap.org](mailto:research@oxfordroadmap.org)
+[research@footprints.cv](mailto:research@footprints.cv)
 
 **Partnership Opportunities**  
-[partnerships@oxfordroadmap.org](mailto:partnerships@oxfordroadmap.org)
+[partnerships@footprints.cv](mailto:partnerships@footprints.cv)
 
 :::
 
@@ -54,7 +54,7 @@ If you represent a research institution with:
 - Expertise in metrology, cybernetics, or policy
 - Interest in sustainable supply chains
 
-**→ [Email our Research Team](mailto:research@oxfordroadmap.org)**
+**→ [Email our Research Team](mailto:research@footprints.cv)**
 
 ### Industry & Manufacturing Partnerships
 
@@ -63,7 +63,7 @@ If you operate semiconductor fabrication lines or supply chain infrastructure:
 - Real-time compliance automation testing
 - Customized governance frameworks
 
-**→ [Email our Partnership Team](mailto:partnerships@oxfordroadmap.org)**
+**→ [Email our Partnership Team](mailto:partnerships@footprints.cv)**
 
 ### Funding & Grant Opportunities
 
@@ -72,7 +72,7 @@ Interested in co-funding SCVCS development or scaling?
 - National research programs
 - Regional development initiatives
 
-**→ [Email our Coordinator](mailto:scvcs@oxfordroadmap.org)**
+**→ [Email our Coordinator](mailto:scvcs@footprints.cv)**
 
 ---
 

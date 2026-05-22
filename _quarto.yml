@@ -7,26 +7,28 @@ project:
 website:
   title: "SCVCS Research Initiative"
   site-url: "https://oxfordroadmap.github.io/prj_SCVCS/"
+  # site-url: "https://footprints.cv/prj_SCVCS/"
   repo-url: "https://github.com/oxfordroadmap/prj_SCVCS"
   favicon: images/favicon.png
+  # google-analytics: "UA-177339812-1"
   page-navigation: true
   search: true
   
   page-footer:
     background: "#F6F5F3"
-    center: "© 2026 Oxford Roadmap · EU-ASEAN Semiconductor Research Initiative · Made with {{< fa brands r-project >}} and {{< fa brands quarto >}}"
+    center: "© 2026 Liao, Han-Teng (Footprints.CV) · Proposals for EU-ASEAN Semiconductor Research Initiative · Made with {{< fa brands r-project >}} and {{< fa brands quarto >}}"
     right:
       - icon: github
         href: https://github.com/oxfordroadmap/prj_SCVCS
       - icon: envelope
-        href: mailto:contact@example.com
+        href: mailto:contact@footprints.cv
 
   navbar:
     search: true
     title: false
     logo: images/logo.png
     background: "#F6F5F3"
-    logo-alt: "SCVCS Initiative"
+    logo-alt: "SCVCS Initiative By Footprints.CV"
     left:
       - href: index.qmd
         text: Home

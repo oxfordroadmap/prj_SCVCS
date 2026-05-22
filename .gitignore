@@ -4,7 +4,7 @@
 .DS_Store
 
 # Local folder
-locale/
+_local_/
 
 # Build outputs
 _site/
@@ -31,3 +31,6 @@ Thumbs.db
 .Rhistory
 .RData
 .Rproj.user/
+
+/.quarto/
+**/*.quarto_ipynb
