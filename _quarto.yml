@@ -1,0 +1,54 @@
+project:
+  type: website
+  render:
+    - "*.qmd"
+    - "!styles/"
+
+website:
+  title: "SCVCS Research Initiative"
+  site-url: "https://oxfordroadmap.github.io/prj_SCVCS/"
+  repo-url: "https://github.com/oxfordroadmap/prj_SCVCS"
+  favicon: images/favicon.png
+  page-navigation: true
+  search: true
+  
+  page-footer:
+    background: "#F6F5F3"
+    center: "© 2026 Oxford Roadmap · EU-ASEAN Semiconductor Research Initiative · Made with {{< fa brands r-project >}} and {{< fa brands quarto >}}"
+    right:
+      - icon: github
+        href: https://github.com/oxfordroadmap/prj_SCVCS
+      - icon: envelope
+        href: mailto:contact@example.com
+
+  navbar:
+    search: true
+    title: false
+    logo: images/logo.png
+    background: "#F6F5F3"
+    logo-alt: "SCVCS Initiative"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: project.qmd
+        text: Project
+      - href: team.qmd
+        text: Team & Skills
+      - href: contact.qmd
+        text: Contact
+
+  sidebar:
+    - id: empty-to-suppress-sidebars-on-other-pages
+
+format:
+  html:
+    theme:
+      - styles/custom.scss
+      - yeti
+    mainfont: "Nunito Sans"
+    toc: true
+    link-external-newwindow: true
+    date-format: "MMM YYYY"
+    smooth-scroll: true
+    resources:
+      - images

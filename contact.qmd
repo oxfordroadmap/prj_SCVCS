@@ -1,0 +1,92 @@
+---
+title: "Contact & Collaboration"
+page-layout: full
+---
+
+# Get in Touch
+
+Interested in joining the SCVCS research initiative or exploring collaboration opportunities?
+
+---
+
+## Contact Information
+
+::: grid
+::: {.g-col-12 .g-col-md-6}
+
+### Email
+
+**Project Coordinator**  
+[scvcs@oxfordroadmap.org](mailto:scvcs@oxfordroadmap.org)
+
+**Research Inquiries**  
+[research@oxfordroadmap.org](mailto:research@oxfordroadmap.org)
+
+**Partnership Opportunities**  
+[partnerships@oxfordroadmap.org](mailto:partnerships@oxfordroadmap.org)
+
+:::
+
+::: {.g-col-12 .g-col-md-6}
+
+### Location
+
+**Oxford Roadmap**  
+University of Oxford  
+Oxford, United Kingdom  
+
+**Regional Hubs**  
+🇵🇱 Poland  
+🇵🇹 Portugal  
+🇲🇾 Malaysia  
+
+:::
+:::
+
+---
+
+## Collaboration Opportunities
+
+### Research Partnerships
+
+If you represent a research institution with:
+- Advanced semiconductor fabrication access
+- Expertise in metrology, cybernetics, or policy
+- Interest in sustainable supply chains
+
+**→ [Email our Research Team](mailto:research@oxfordroadmap.org)**
+
+### Industry & Manufacturing Partnerships
+
+If you operate semiconductor fabrication lines or supply chain infrastructure:
+- Pilot deployment opportunities
+- Real-time compliance automation testing
+- Customized governance frameworks
+
+**→ [Email our Partnership Team](mailto:partnerships@oxfordroadmap.org)**
+
+### Funding & Grant Opportunities
+
+Interested in co-funding SCVCS development or scaling?
+- EU Horizon Europe calls
+- National research programs
+- Regional development initiatives
+
+**→ [Email our Coordinator](mailto:scvcs@oxfordroadmap.org)**
+
+---
+
+## Quick Links
+
+- 📄 **[Project Details](project.qmd)**
+- 👥 **[Team & Competencies](team.qmd)**
+- 💻 **[GitHub Repository](https://github.com/oxfordroadmap/prj_SCVCS)**
+- 📚 **[Documentation](#)** *(Coming soon)*
+
+---
+
+## Social & Web Presence
+
+- 🐙 GitHub: [@oxfordroadmap](https://github.com/oxfordroadmap)
+- 🔗 LinkedIn: [Oxford Roadmap](https://linkedin.com) *(To be updated)*
+- 🌐 Web: [oxfordroadmap.org](https://oxfordroadmap.org) *(To be updated)*

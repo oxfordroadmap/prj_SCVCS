@@ -1,0 +1,121 @@
+---
+title: "Team & Competencies"
+subtitle: "Multi-Disciplinary Expertise for Atoms-to-Law Research"
+toc: true
+---
+
+# Team & Competencies
+
+## Core Competency Framework
+
+SCVCS brings together expertise spanning three integrated knowledge domains:
+
+::: grid
+::: {.g-col-12 .g-col-lg-4 style="background: #E8F4F8; padding: 20px; border-radius: 8px; margin: 10px;"}
+
+### Physical & Metrology Sciences
+
+**Atoms-Electrons Nexus**
+
+- Virtual Metrology (VM) engineering
+- Atomic Force Microscopy integration
+- Facility resource tracking
+- Statistical process control
+
+:::
+
+::: {.g-col-12 .g-col-lg-4 style="background: #FFF4E6; padding: 20px; border-radius: 8px; margin: 10px;"}
+
+### Cybernetic & Computing Systems
+
+**Cognitive Continuum Architecture**
+
+- SIPAEA framework orchestration
+- IDS connector engineering
+- Trusted Execution Environments (TEEs)
+- Agentic workflow programming
+
+:::
+
+::: {.g-col-12 .g-col-lg-4 style="background: #E8F5E9; padding: 20px; border-radius: 8px; margin: 10px;"}
+
+### Regulatory & Financial Economics
+
+**Jurisprudential Layer**
+
+- RegTech compliance translation
+- Regenerative accounting methodology
+- Carbon border adjustment mechanisms
+- Tokenomics & digital assets
+
+:::
+:::
+
+---
+
+## Services & Capabilities
+
+### Service 1: Automated Environmental Stewardship (SSbD-REACH)
+
+**Innovation**: On-the-fly chemical toxicity checking via Digital Product Passports
+
+**Operationalized Function**: When factories update process chemicals, autonomous agents verify REACH compliance automatically.
+
+---
+
+### Service 2: Sovereign Cross-Border Privacy (GDPR-IoT)
+
+**Innovation**: Hardware-enforced cryptographic boundaries for sensitive data flows
+
+**Operationalized Function**: Brokers worker and equipment data across EU-Hsinchu-Penang corridor while maintaining data sovereignty.
+
+---
+
+### Service 3: Real-Time Carbon Auditing (Carbon-Trace API)
+
+**Innovation**: Coupling soft-sensing with dynamic reporting ledgers
+
+**Operationalized Function**: Generates immutable greenhouse gas ledger items satisfying EU Carbon Border Adjustment Mechanism criteria.
+
+---
+
+### Service 4: Yield-Sustainability Balancing (SIPAEA Core)
+
+**Innovation**: Multi-loop cybernetic infrastructure for reflective governance
+
+**Operationalized Function**: Adjusts factory scheduling during ecosystem stress (droughts, power fluctuations).
+
+---
+
+### Service 5: Regenerative Asset Tokenization (DPP-BOM Ledger)
+
+**Innovation**: Translating "Atoms-to-Values" into fundable digital assets
+
+**Operationalized Function**: Packages end-of-life parameters and Scope 3 indicators into compliant Digital Product Passports.
+
+---
+
+## Seeking Partners
+
+We are actively recruiting consortium members with expertise in:
+
+✓ **Semiconductor fabrication** and advanced metrology  
+✓ **Cloud computing** and edge infrastructure  
+✓ **Cybersecurity & TEEs** (AMD SEV, Intel SGX)  
+✓ **Data sovereignty & IDS** protocols  
+✓ **Policy automation & RegTech**  
+✓ **Environmental accounting** and circular economics  
+✓ **Global supply chain management**  
+✓ **Green finance & bonds**  
+
+### Ideal Partners Include:
+
+- **Research institutions** with advanced semiconductor fabrication access
+- **Technology companies** specializing in edge computing, cryptography, or AI
+- **Policy organizations** engaged with EU sustainability frameworks
+- **Financial institutions** focused on sustainable investments
+- **Regional business services hubs** in Poland, Portugal, and Malaysia
+
+---
+
+**[Contact us to discuss collaboration →](contact.qmd)**

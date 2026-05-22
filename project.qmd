@@ -1,0 +1,182 @@
+---
+title: "Project Overview"
+subtitle: "SCVCS: Atoms-to-Law Research Infrastructure"
+toc: true
+toc-depth: 3
+---
+
+# Project Overview
+
+## Executive Summary
+
+The **Semiconductor Compliance & Value Chain Sovereignty (SCVCS)** project delivers a distributed, edge-to-cloud computing infrastructure that transforms semiconductor manufacturing compliance from a retrospective administrative burden into an automated, real-time governance system.
+
+By integrating physical metrology data, cybernetic control systems, policy automation, and financial innovation, SCVCS enables the global semiconductor industry to align production with European Chips Act mandates while respecting data sovereignty across transnational supply chains.
+
+---
+
+## 1. Excellence: Technical Approach
+
+### 1.1 Objectives and Ambition
+
+The global semiconductor ecosystem faces a critical challenge: advanced manufacturing physics and process optimizations operate entirely disconnected from absolute sustainability metrics. SCVCS solves this by introducing a **Regenerative Socio-Technical (RST) framework** that integrates three technical pillars:
+
+#### **Objective 1: RealSoS (Real-time Operational Sovereignty)**
+
+Develop a distributed, edge-to-cloud computing continuum executing time-sensitive, multi-rate cybernetic control loops that simultaneously optimize production yield and environmental resource consumption.
+
+**Key Deliverables:**
+- Virtual Metrology (VM) pipeline for sub-2nm process prediction
+- SIPAEA multi-rate control framework
+- Edge-cloud continuum optimization protocols
+
+#### **Objective 2: GuardSoS (Governance & Data Sovereignty)**
+
+Engineer autonomous agentic workflows running Policy-as-Code within secure hardware-rooted Trusted Execution Environments (TEEs) to handle automated cross-border compliance.
+
+**Key Deliverables:**
+- TEE-based enclave configurations (AMD SEV, Intel SGX)
+- Autonomous Professional Proxy agents
+- International Data Spaces (IDS) connector interfaces
+
+#### **Objective 3: AuditSoS (Auditing & Asset Tokenization)**
+
+Institutionalize an embedded technical auditing tool utilizing metabolic circuit accounting to track Scope 3 lifecycle footprints and generate verified Digital Product Passports (DPPs).
+
+**Key Deliverables:**
+- Metabolic accounting frameworks
+- DPP schema (XML/JSON-LD)
+- Green fintech integration APIs
+
+---
+
+### 1.2 Overall Research Approach: Atoms-to-Law Framework
+
+SCVCS architecture is organized across four integrated layers:
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│ JURISPRUDENTIAL & ASSET LAYER                               │
+│ RegTech, FinTech, Digital Product Passports, Green Bonds    │
+└─────────────────────────────────────────────────────────────┘
+                         ▲
+                         │ [Cryptographic Attestation]
+                         ▼
+┌─────────────────────────────────────────────────────────────┐
+│ GOVERNANCE LAYER                                             │
+│ TEE Enclaves, Policy-as-Code, Professional Proxies          │
+└─────────────────────────────────────────────────────────────┘
+                         ▲
+                         │ [Validated Compliance Vectors]
+                         ▼
+┌─────────────────────────────────────────────────────────────┐
+│ CYBERNETIC LAYER (RealSoS)                                   │
+│ Edge Continuums, Multi-Rate Loops, Soft-Sensing             │
+└─────────────────────────────────────────────────────────────┘
+                         ▲
+                         │ [Real-Time Telemetry]
+                         ▼
+┌─────────────────────────────────────────────────────────────┐
+│ PHYSICAL LAYER                                               │
+│ Angstrom Fabrication, Wafer Yield, Water/Energy Flows       │
+└─────────────────────────────────────────────────────────────┘
+```
+
+#### **Layer 1: The Physical Layer (Atoms-Electrons Nexus)**
+Collects raw physical signals from advanced fabrication: inline atomic process deviations, chemical consumption metrics, facility infrastructure loads (water recycling, thermal dissipation).
+
+#### **Layer 2: The Cybernetic Layer (RealSoS - Real-time Operational Sovereignty)**
+Translates physical sensor data into predictable models through Virtual Metrology and Soft-Sensing. Deploys multi-rate control loops balancing yield optimization with resource efficiency.
+
+#### **Layer 3: The Governance Layer (GuardSoS - Data Sovereignty Airlock)**
+Packages validated operational telemetry inside hardware-isolated TEE enclaves. Autonomous Policy-as-Code agents execute compliance transformations securely.
+
+#### **Layer 4: The Jurisprudential Layer (AuditSoS - Auditing & Assets)**
+Transforms compliance certifications into Digital Product Passports and data-sovereign financial instruments for green bonds and sustainable investment.
+
+---
+
+### 1.3 Interdisciplinary Dimensions
+
+SCVCS integrates four core domains:
+
+- **Physical Metrology & Semiconductor Engineering**: Sub-2nm process analytics and Virtual Metrology
+- **Advanced Cryptography & Computer Science**: Hardware-rooted TEEs and IDS data fabric architectures
+- **Ecological Economics & Material Science**: Metabolic accounting and lifecycle footprinting
+- **Spatial Logistics & Supply Chain Policy**: Cross-border governance across EU-ASEAN corridors
+
+---
+
+## 2. Impact: Pathways to Transformation
+
+### 2.1 Scientific Impact
+
+- **Harmonization** of physical metrology data models with macro sustainability frameworks
+- **Novel cybernetic control architectures** balancing technical performance with environmental constraints
+- **Open science outputs**: Publications, open-source code, standardized data schemas
+
+### 2.2 Industrial & Market Impact
+
+- Real-time compliance automation reducing administrative overhead
+- Verified environmental certifications enabling premium market positioning
+- Green finance integration unlocking sustainable investment channels
+- Regional pilot line deployments demonstrating scalability
+
+### 2.3 Policy & Governance Impact
+
+- **Alignment** with European Chips Act sustainability mandates
+- Standardization contributions to ITU-T Study Group 5 and IEEE IRDS™
+- Policy automation tools supporting regulatory bodies
+- EU-ASEAN transnational corridor establishment
+
+---
+
+## 3. Implementation: Work Packages & Timeline
+
+### Work Plan Overview
+
+| **WP** | **Title** | **Lead** | **Duration** | **Key Deliverables** |
+|--------|-----------|---------|--------------|---------------------|
+| **WP1** | Data Fabric & Knowledge Services | - | M1-M36 | D1.1: Knowledge Portal |
+| **WP2** | Cybernetic Continuum (RealSoS) | - | M4-M30 | D2.1: Software Stack |
+| **WP3** | Security & Governance (GuardSoS) | - | M6-M32 | D3.1: Policy Compiler |
+| **WP4** | Metabolic Auditing (AuditSoS) | - | M8-M34 | D4.1: Audit Framework |
+| **WP5** | EU-ASEAN Corridor Deployment | - | M12-M36 | D5.1: Deployment Playbook |
+
+**Total Person-Months**: 289 PM  
+**Total Duration**: 36 months  
+**Budget**: [To be confirmed]
+
+---
+
+## 4. Risk Mitigation
+
+| **Risk** | **Impact** | **Mitigation** |
+|----------|-----------|----------------|
+| Data sharing resistance | High | Deploy zero-knowledge proofs |
+| High loop latency | High | Decouple real-time from compliance paths |
+| Regulatory mismatch | Medium | Modular Policy-as-Code architecture |
+| Skill gaps | Medium | Structured upskilling programs |
+
+---
+
+## 5. Open Science & Data Management
+
+### Open Access Commitment
+- All systematic literature reviews and conceptual frameworks published in open-access journals
+- Core code repositories on GitHub
+- FAIR principle compliance: Findable, Accessible, Interoperable, Reusable
+- DOI assignment for all datasets and software components
+
+### Data Privacy Safeguards
+- GDPR Article 25 compliance via hardware-rooted pseudonymization
+- No raw factory-floor data ingestion; only processed compliance vectors
+- International Data Spaces (IDS) protocols for cross-border transfers
+
+---
+
+## Next Steps
+
+- **[Explore our Team & Skills →](team.qmd)**
+- **[Contact Research Leads →](contact.qmd)**
+- **[View GitHub Repository](https://github.com/oxfordroadmap/prj_SCVCS)**

@@ -1,10 +1,10 @@
-# Local folder
-_local_/
-
 # Obsidian
 .obsidian/
 *.obsidian
 .DS_Store
+
+# Local folder
+locale/
 
 # Build outputs
 _site/
@@ -14,6 +14,7 @@ _site/
 node_modules/
 .venv/
 venv/
+renv/
 
 # IDE
 .vscode/
@@ -25,3 +26,8 @@ venv/
 # OS
 Thumbs.db
 .DS_Store
+
+# R-specific
+.Rhistory
+.RData
+.Rproj.user/

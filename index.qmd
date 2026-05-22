@@ -1,0 +1,117 @@
+---
+title: "SCVCS: Semiconductor Compliance & Value Chain Sovereignty"
+subtitle: "EU-ASEAN Research Initiative for Sustainable Semiconductor Manufacturing"
+page-layout: full
+---
+
+<div class="gradient-text">
+  <div class="welcome-headline">
+    Welcome to SCVCS
+  </div>
+  <div class="welcome-subheadline">
+    Bridging Atoms to Law: Sustainable Semiconductor Supply Chains
+  </div>
+</div>
+
+::::{.scvcs-background}
+::: {.content-container}
+::: {.welcome}
+
+::: grid
+::: {.g-col-12 .g-col-lg-6 .welcome-text .sand-background style="padding: 20px; border-radius: 8px;"}
+
+## About SCVCS
+
+The **Semiconductor Compliance & Value Chain Sovereignty (SCVCS)** initiative is a cutting-edge research infrastructure designed to transform how the global semiconductor industry manages environmental, social, and governance (ESG) compliance while maintaining data sovereignty across transnational borders.
+
+We tackle a critical challenge: bridging the disconnection between advanced manufacturing physics and absolute sustainability metrics through an **Atoms-to-Law** framework that integrates:
+
+- **Physical metrology** (nanoscale fabrication)
+- **Cybernetic governance** (edge-cloud computing)
+- **Regulatory compliance** (EU policy frameworks)
+- **Financial innovation** (green bonds & tokenized assets)
+
+:::
+
+::: {.g-col-12 .g-col-lg-6 style="padding: 20px;"}
+
+### Key Innovations
+
+::: {.feature-box style="background: #E8F4F8; padding: 15px; border-left: 4px solid #0078D4; margin-bottom: 15px;"}
+**RealSoS Engine**  
+Multi-rate cybernetic control loops for real-time yield & emissions balancing
+:::
+
+::: {.feature-box style="background: #FFF4E6; padding: 15px; border-left: 4px solid #F0AD4E; margin-bottom: 15px;"}
+**GuardSoS Gateway**  
+Hardware-rooted Trusted Execution Environments for data sovereignty
+:::
+
+::: {.feature-box style="background: #E8F5E9; padding: 15px; border-left: 4px solid #28A745; margin-bottom: 15px;"}
+**AuditSoS Framework**  
+Metabolic accounting for Scope 3 lifecycle footprints
+:::
+
+:::
+
+:::
+
+:::
+
+---
+
+## Our Vision
+
+<div style="background: #F0F8FF; padding: 30px; border-radius: 8px; margin: 20px 0;">
+
+### Transforming Semiconductor Compliance
+
+Instead of **static paper disclosures** and **retrospective annual audits**, we deliver:
+
+✓ **Automated, inline manufacturing compliance** integrated at every production stage  
+✓ **Real-time environmental footprint tracking** from fabrication to end-of-life  
+✓ **Hardware-secured autonomous governance** replacing trust-based human auditing  
+✓ **Cross-border data sovereignty** respecting GDPR, CSDDD, and regional regulations  
+✓ **Fundable digital product passports** enabling green finance integration  
+
+</div>
+
+---
+
+## Research Objectives
+
+::: grid
+::: {.g-col-12 .g-col-md-4}
+### Objective 1: RealSoS
+**Real-time Operational Sovereignty**
+
+Edge-to-cloud computing continuum executing multi-rate cybernetic control loops for simultaneous yield and emissions optimization.
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### Objective 2: GuardSoS
+**Governance & Data Sovereignty**
+
+Autonomous Policy-as-Code workflows in secure TEE enclaves managing cross-border compliance.
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### Objective 3: AuditSoS
+**Auditing & Asset Tokenization**
+
+Metabolic circuit accounting generating certified digital product passports for sustainable supply chains.
+:::
+:::
+
+---
+
+## Partnership & Funding
+
+SCVCS is seeking **EU-ASEAN research partners** and **funding collaborators** to:
+
+- Participate in pilot deployments across advanced semiconductor fabrication lines
+- Co-develop regional data governance frameworks
+- Validate compliance automation tools with industry stakeholders
+- Contribute domain expertise across physical metrology, cybernetics, policy, and finance
+
+**[Learn More About the Project →](project.qmd)** | **[Meet Our Team →](team.qmd)** | **[Get in Touch →](contact.qmd)**
