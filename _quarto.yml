@@ -32,7 +32,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - text: "publications"
+      - text: "Publications"
         menu:
           - text: "Working Papers"
             href: publications/working-papers.qmd # <--- And link to your new file
