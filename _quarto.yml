@@ -6,8 +6,8 @@ project:
 
 website:
   title: "SCVCS Research Initiative"
-  site-url: "https://oxfordroadmap.github.io/prj_SCVCS/"
-  # site-url: "https://footprints.cv/prj_SCVCS/"
+  # site-url: "https://oxfordroadmap.github.io/prj_SCVCS/"
+  site-url: "https://scvcs.footprints.cv/"
   repo-url: "https://github.com/oxfordroadmap/prj_SCVCS"
   favicon: images/favicon.png
   # google-analytics: "UA-177339812-1"
