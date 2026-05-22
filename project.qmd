@@ -7,11 +7,24 @@ toc-depth: 3
 
 # Project Overview
 
+> [!TIP]
+> ## Project Overview
+>The Safe and Sustainable by Design (SSbD) Chips Value Chain Services (SCVCS) represents a federated, multi-scalar research infrastructure platform engineered as an interoperable System of Systems (SoS). It converts escalating global regulatory friction into automated, data-sovereign digital services that bridge the critical chasm between raw manufacturing physics (Atoms and Electrons), transnational regulatory compliance (Law), and institutional markets (Tax and Finance). Driven by the compounding environmental demand shock of linear generative computing stacks, the platform establishes a regenerative, "Atoms-to-Law" socio-technical architecture that internalizes ecological debt straight onto value chain balance sheets. 
+
 ## Executive Summary
 
 The **Semiconductor Compliance & Value Chain Sovereignty (SCVCS)** project delivers a distributed, edge-to-cloud computing infrastructure that transforms semiconductor manufacturing compliance from a retrospective administrative burden into an automated, real-time governance system.
 
 By integrating physical metrology data, cybernetic control systems, policy automation, and financial innovation, SCVCS enables the global semiconductor industry to align production with European Chips Act mandates while respecting data sovereignty across transnational supply chains.
+
+> [!IMPORTANT]
+> ## Registrations
+> * OSF: https://osf.io/dpjyn DOI: [10.17605/OSF.IO/DPJYN](https://doi.org/10.17605/OSF.IO/DPJYN)
+>   - [Datasets](https://osf.io/dpjyn/wiki?wiki=aqm3p)
+>   - [Resources](https://osf.io/dpjyn/wiki?wiki=hxjg4)
+>   - Working Papers (preprint pending)
+> * Zenodo-github:
+>   - Working Papers (preprint pending)
 
 ---
 
