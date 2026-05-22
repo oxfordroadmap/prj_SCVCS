@@ -10,6 +10,9 @@ name: Quarto Publish
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.change-page-url.outputs.new_page_url }}
     permissions:
       contents: write
       pages: write
