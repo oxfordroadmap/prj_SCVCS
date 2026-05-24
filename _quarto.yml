@@ -42,7 +42,6 @@ website:
             href: project.qmd
           - text: "EU Part. B"
             href: Part.B.qmd # <--- And link to your new file
-        text: 
       - href: team.qmd
         text: Team & Skills
       - href: contact.qmd
