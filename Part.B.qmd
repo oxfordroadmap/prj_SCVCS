@@ -1,5 +1,9 @@
-# Part B: Project Proposal - Technical Description
-
+---
+title: "Project Proposal Part B"
+subtitle: "Technical Descriptions of SCVCS: Atoms-to-Law Research Infrastructure"
+toc: true
+toc-depth: 3
+---
 ## 1. Excellence
 
 ### 1.1 Objectives and Ambition
