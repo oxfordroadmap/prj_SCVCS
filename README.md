@@ -61,3 +61,12 @@ Crucially, these advanced technical layers are operationalized within the corpor
 # Note.
 
 The construction of this website learns from [Masiello Group academic research group website](https://faculty.washington.edu/masiello/), with [its GitHub Repository](https://github.com/MasielloGroup/MasielloGroupWebsite).
+
+
+--- 
+
+# To Do List
+
+- [Project Proposal Part B](https://scvcs.footprints.cv/Part.B.html): final editing and diagram polishing
+- [Home Page Landing Design](https://scvcs.footprints.cv/)
+	- OSF.io, etc.
