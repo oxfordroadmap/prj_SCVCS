@@ -1,5 +1,5 @@
 ---
-title: "SCVCS: The-Safe-and-Sustainable-by-Design (SSbD) Chips Value Chain Services"
+title: "SCVCS: Safe-and-Sustainable-by-Design (SSbD) Chips Value Chain Services"
 subtitle: "EU-ASEAN Research Initiative for Sustainable Semiconductor Manufacturing"
 page-layout: full
 ---
@@ -7,104 +7,65 @@ page-layout: full
 ::: {.content-container .scvcs-background .welcome}
 ::: {.grid}
 
-::: {.g-col-12 .g-col-lg-6 .welcome-text .sand-background style="padding: 20px; border-radius: 8px;"}
+::: {.g-col-12 .g-col-lg-7 .welcome-text .sand-background style="padding: 30px; border-radius: 8px;"}
 
-## About SCVCS
+## 📢 Open Call for Research & Industrial Collaboration
 
-> Safe-and-Sustainable-by-Design (SSbD) Chips Value Chain Services (SCVCS): Establishing an **Atoms-to-Law** Framework for Regenerative Electronics
+The **SCVCS initiative** is establishing a pioneering **Atoms-to-Law** framework to operationalize a Regenerative Socio-Technical (RST) roadmap for the global semiconductor industry. We are actively seeking to expand our international consortium for upcoming funding tracks.
 
-The Safe-and-Sustainable-by-Design (SSbD) Chips Value Chain Services (SCVCS) initiative is a pioneering research infrastructure created to establish a new paradigm for the global semiconductor industry. Our mission is to operationalize a **Regenerative Socio-Technical** (RST) roadmap, transforming the sector from a source of ecological and geopolitical risk into a driver of a positive, sustainable future.
+> ### 🤝 Consortium Expansion Targets:
+> * **2–3 EU/UK Partners:** Specializing in advanced physical metrology, confidential computing (TEEs), or ecological economics.
+> * **1–2 ASEAN Partners:** Semiconductor manufacturing facilities, packaging/testing hubs, or regional Global Business Services (GBS 5.0) networks.
 
-We bridge the gap between advanced manufacturing physics and absolute sustainability metrics through an explicit **Atoms-to-Law** framework. By placing Safe-and-Sustainable-by-Design (SSbD) at the core, we provide the verified material data foundation necessary for a semiconductor value chain that is regeneratively accountable, environmentally safe, and geopolitically resilient. This system is designed to seamlessly manage environmental, social, and governance (ESG) compliance while robustly ensuring data sovereignty across transnational borders.
+We bridge the gap between advanced manufacturing physics and absolute sustainability metrics by turning compliance into an automated, data-sovereign manufacturing service.
 
-Our approach integrates four critical domains as a System of Systems (SoS) challenge:
-
-* **Physical metrology (RealSoS Atoms-Electrons Nexus):** Capturing real-time nanoscale fabrication telemetry, inline atomic process deviations, and fluid dynamics from sub-2nm advanced manufacturing environments to anchor all downstream data in absolute physical reality.
-* **Cybernetic governance (GuardSoS Engine):** Executing time-sensitive, multi-rate cybernetic control loops via the SIPAEA (Sense-Interpret-Plan-Act-Evaluate-Adapt) framework to dynamically balance physical process yields against real-time ecological and resource constraints at the edge.
-* **Regulatory compliance (AuditSoS Engine):** eploying autonomous, hardware-isolated Trusted Execution Environment (TEE) enclaves that compile declarative Policy-as-Code parameters (e.g., CSDDD, REACH, CBAM), enabling trusted cross-border auditing without exposing proprietary factory trade secrets.
-* **Financial innovation (Global Business Services with Skills.md Revolutions):** Anchoring validated, metrology-grounded data assets (such as Digital Product Passports) within regional Global Business Services (GBS 5.0) corporate networks across critical transnational corridors. This transforms compliance centers into strategic hubs for cross-border data orchestration and green tech financing, powered by an intergenerational engineering talent pipeline trained to manage integrated socio-technical systems.
-
-Our goal is to operationalize a Regenerative Socio-Technical (RST) roadmap, delivering a global semiconductor value chain that is not just environmentally safe, but also geopolitically resilient, regeneratively accountable, and a catalyst for a positive future.
-We tackle a critical challenge: bridging the disconnection between advanced manufacturing physics and absolute sustainability metrics through an  framework that integrates:
+[Button: Download Consortium Briefing Pack](project.pdf){.btn .btn-primary} 
+[[Learn More About the Project Approach →](project.qmd)]{.btn .btn-outline-secondary}
 
 :::
 
-::: {.g-col-12 .g-col-lg-6 style="padding: 20px;"}
+::: {.g-col-12 .g-col-lg-5 style="padding: 20px;"}
 
-### Key Innovations
+### The SCVCS Pillars (System of Systems)
 
 ::: {.feature-box style="background: #E8F4F8; padding: 15px; border-left: 4px solid #0078D4; margin-bottom: 15px;"}
-🔬 **RealSoS Engine** Multi-rate data streams for real-time yield & emission/footprint balancing
+🔬 **RealSoS (Physical Metrology & Cybernetics)**
+Multi-rate data streams executing SIPAEA loops for real-time yield & emission footprint balancing.
 :::
 
 ::: {.feature-box style="background: #FFF4E6; padding: 15px; border-left: 4px solid #F0AD4E; margin-bottom: 15px;"}
-🛡️ **GuardSoS Gateway** Hardware-rooted Trusted Execution Environments for data sovereignty and cybernetic control loops via the SIPAEA
+🛡️ **GuardSoS (Governance & Security)**
+Hardware-rooted Trusted Execution Environments (TEEs) ensuring data sovereignty and Policy-as-Code.
 :::
 
 ::: {.feature-box style="background: #E8F5E9; padding: 15px; border-left: 4px solid #28A745; margin-bottom: 15px;"}
-♻️ **AuditSoS Framework** Regeneratively accountable accounting for Scope 3 emission and SSbD lifecycle footprints
+♻️ **AuditSoS (Financial & Supply Chain Innovation)**
+Regeneratively accountable Scope 3 footprints translated into certified Digital Product Passports (DPP).
 :::
 
 :::
-
-:::
-:::
-
-
----
-
-## Our Vision
-
-<div style="background: #F0F8FF; padding: 30px; border-radius: 8px; margin: 20px 0;">
-
-### Transforming Semiconductor Compliance
-
-Instead of **static paper disclosures** and **retrospective annual audits**, we deliver:
-
-✓ **Automated, inline manufacturing compliance** integrated at every production stage  
-✓ **Real-time environmental footprint tracking** from fabrication to end-of-life  
-✓ **Hardware-secured autonomous governance** replacing trust-based human auditing  
-✓ **Cross-border data sovereignty** respecting GDPR, CSDDD, and regional regulations  
-✓ **Fundable digital product passports** enabling green finance integration  
-
-</div>
-
----
-
-## Research Objectives
-
-::: grid
-::: {.g-col-12 .g-col-md-4}
-### Objective 1: RealSoS
-**Real-time Operational Sovereignty**
-
-Edge-to-cloud computing continuum executing multi-rate cybernetic control loops for simultaneous yield and emissions optimization.
-:::
-
-::: {.g-col-12 .g-col-md-4}
-### Objective 2: GuardSoS
-**Governance & Data Sovereignty**
-
-Autonomous Policy-as-Code workflows in secure TEE enclaves managing cross-border compliance.
-:::
-
-::: {.g-col-12 .g-col-md-4}
-### Objective 3: AuditSoS
-**Auditing & Asset Tokenization**
-
-**Regeneratively accountable** and **environmentally safe** accounting leveraging certified digital product passports for sustainable supply chains.
 :::
 :::
 
 ---
 
-## Partnership & Funding
+## Strategic Value Proposition
 
-SCVCS is seeking **EU-ASEAN research partners** and **funding collaborators** to:
+Instead of static paper disclosures and retrospective annual audits, the SCVCS infrastructure delivers an integrated Atoms-to-Law pipeline:
 
-- Participate in pilot deployments across advanced semiconductor fabrication lines
-- Co-develop regional data governance frameworks
-- Validate compliance automation tools with industry stakeholders
-- Contribute domain expertise across physical metrology, cybernetics, policy, and finance
+* **Automated, inline compliance** integrated directly at advanced production stages.
+* **Hardware-secured autonomous governance** running validation without exposing trade secrets or factory yield telemetry.
+* **Cross-border data sovereignty** mapping smoothly across GDPR, CSDDD, REACH, and CBAM frameworks.
+* **Fundable asset tokenization** matching real-time metrology straight to green finance options.
 
-**[Learn More About the Project →](project.qmd)** | **[Meet Our Team →](team.qmd)** | **[Get in Touch →](contact.qmd)**
+---
+
+## How to Participate
+
+We are co-designing pilot deployments across the critical EU-Hsinchu-Penang manufacturing axis. If your organization fits one of our target pillars, let's connect:
+
+* **Pilot Line Operators:** Validate compliance automation tools in live or simulated fabrication environments.
+* **RegTech & Cryptography Labs:** Co-develop Policy-as-Code compilers and secure data-space connectors.
+* **GBS & Supply Chain Network Leads:** Map transnational logistics and lead regional talent upskilling initiatives.
+
+**[Explore Technical Work Packages →](project.qmd)** | **[View Proposal Draft (Part B) →](Part.B.qmd)** | **[Get in Touch / Express Interest →](contact.qmd)**

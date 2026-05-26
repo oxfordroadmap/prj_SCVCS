@@ -111,6 +111,8 @@ A formal Data Management Plan (DMP) will be delivered by Month 6 as a core proje
 
 ### 2.1 Project's Pathways Towards Impact
 
+The infrastructure establishes a clear pipeline from real-time edge computing metrology to verified transnational assets, ensuring compliance with upcoming European Chips Act mandates, CSDDD, and CBAM criteria without fracturing intellectual property boundaries along the supply chain.
+
 #### Consolidated Impact Narrative
 
 The SCVCS research infrastructure provides an actionable technical path that translates facility-level metrics directly into macro-level policy impacts aligned with the European Chips Act and Horizon Europe INFRA targets. At the tool and facility level, deploying the SIPAEA framework and autonomous Professional Proxies converts real-time metrology into audit-ready ESG datasets. This automation eliminates the high costs and compliance friction associated with cross-border supply chains, directly supporting the EU Corporate Sustainability Due Diligence Directive (CSDDD) and Carbon Border Adjustment Mechanism (CBAM).
@@ -167,6 +169,8 @@ To translate software outputs into permanent global industry standards, the proj
 ## 3. Quality and Efficiency of the Implementation
 
 ### 3.1 Work Plan and Resources
+
+The operational layout spans 36 months and is managed across five core Work Packages (WP1 to WP5), mapping directly onto the four conceptual framework layers.
 
 #### Overall Management Structure and Project Governance
 
@@ -344,16 +348,16 @@ _(In accordance with Horizon Europe 2026–2027 R&I simplifications, only major 
 
 #### Consortium Description
 
-The SCVCS consortium integrates advanced European research infrastructures and commercial operational networks into a resilient digital service ecosystem. European pilot line facilities, industrial design hubs, and cybersecurity centers provide the technical foundation for hardware-rooted trust, advanced computing systems, and virtual metrology validation. These institutions match seamlessly with strategic international research organizations and multinational corporate networks across the Hsinchu-Penang manufacturing axis.
+The SCVCS consortium integrates advanced European research infrastructures and commercial operational networks into a resilient digital service ecosystem. The collaboration model is explicitly structured around an balanced cross-regional division of labor to satisfy EU project conventions while maintaining an active international footprint:
 
-Crucially, the consortium includes regional Global Business Services (GBS 5.0) centers in Poland, Portugal, and Malaysia. These nodes act as corporate "operational airlocks," anchoring cross-border carbon border adjustment data aggregation, compliance management, and talent upskilling programs aligned with the core competencies of `Skills.md`. This structure ensures that technical developments are effectively operationalized across global semiconductor supply chains, avoiding the fragmentation of isolated national programs.
+* **EU/UK Lead Technical Infrastructure (Open Call Track: 2–3 Partners Required):** Consisting of European pilot line facilities, industrial design hubs, and advanced cryptography laboratories. These partners provide the structural foundation for hardware-rooted trust, edge-cloud computing continuums, and virtual metrology validation. They anchor the secure TEE enclaves (**GuardSoS**) and multi-rate loop architectures (**RealSoS**).
+* **ASEAN Operational & Manufacturing Nodes (Open Call Track: 1–2 Partners Required):** Consisting of strategic international research organizations, manufacturing fabs, and packaging/testing hubs across the active Hsinchu-Penang axis. These partners provision physical or simulated line access to test and validate data-space connectors under real-world factory execution pressures.
+
+The entire consortium coordinates transnational pipelines through regional Global Business Services (GBS 5.0) centers located in middle-power nodes like Poland, Portugal, and Malaysia. These hubs serve as corporate operational airlocks, anchoring cross-border carbon border adjustment data aggregation, compliance management, and talent upskilling programs aligned with the core competencies of `Skills.md`. This precise structure ensures that technical developments are effectively operationalized across global semiconductor supply chains rather than remaining restricted to isolated national programs.
 
 #### Access Provision Delivery Capacity
-
 The SCVCS infrastructure provides secure, virtual access protocols designed to eliminate friction across cross-border research networks:
 
-- **Federated Identity and Access Management (IAM):** Implements secure, single-sign-on access to the portal repository based on standardized IDSA protocols.
-    
-- **Remote Metrology Optimization Portals (RealSoS Gateway):** Enables external researchers and certified design teams to test Virtual Metrology models and simulation scripts on edge computing continuums without needing physical deployment on the factory floor.
-    
-- **Attested Sandbox Environments (GuardSoS Airlock):** Provides secure, remote developer containers within hardware-isolated enclaves. This allows downstream vendors and compliance teams to verify their _Policy-as-Code_ configurations against mock manufacturing data streams. The architecture guarantees that no proprietary factory telemetry, commercial yield data, or sensitive corporate intellectual property can be leaked during remote execution, maintaining a secure environment for all contributors.
+* **Federated Identity and Access Management (IAM):** Implements secure, single-sign-on access to the portal repository based on standardized IDSA protocols.
+* **Remote Metrology Optimization Portals (RealSoS Gateway):** Enables external researchers and certified design teams to test Virtual Metrology models and simulation scripts on edge computing continuums without needing physical deployment on the factory floor.
+* **Attested Sandbox Environments (GuardSoS Airlock):** Provides secure, remote developer containers within hardware-isolated enclaves. This allows downstream vendors and compliance teams to verify their *Policy-as-Code* configurations against mock manufacturing data streams. The architecture guarantees that no proprietary factory telemetry, commercial yield data, or sensitive corporate intellectual property can be leaked during remote execution, maintaining a secure environment for all contributors.

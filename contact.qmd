@@ -31,11 +31,11 @@ Interested in joining the SCVCS research initiative or exploring collaboration o
 
 ### Location
 
-**Oxford Roadmap**  
-University of Oxford  
-Oxford, United Kingdom  
+**Oxford Roadmapping**  
+ 
+Penang, Malaysia & Taipei, Taiwan  
 
-**Regional Hubs**  
+**Seeking Regional Hubs**  
 🇵🇱 Poland  
 🇵🇹 Portugal  
 🇲🇾 Malaysia  
@@ -85,8 +85,11 @@ Interested in co-funding SCVCS development or scaling?
 
 ---
 
+<!--
 ## Social & Web Presence
 
 - 🐙 GitHub: [@oxfordroadmap](https://github.com/oxfordroadmap)
 - 🔗 LinkedIn: [Oxford Roadmap](https://linkedin.com) *(To be updated)*
 - 🌐 Web: [oxfordroadmap.org](https://oxfordroadmap.org) *(To be updated)*
+
+-->
