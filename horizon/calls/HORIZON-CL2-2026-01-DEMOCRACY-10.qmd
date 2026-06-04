@@ -1,0 +1,96 @@
+---
+title: "HORIZON-CL2-2026-01-DEMOCRACY-10"
+subtitle: "Digital and Media Literacy as Drivers for Democratic and Civic Resilience (Online Word-of-Mouth & Green Global Value Chains)"
+topic_budget: "€3.00M to €4.00M (Standard Destination Estimate)"
+project_budget: "Standard Cluster 2 Allocation"
+project_numbers: "Multiple"
+status: "Open For Submission"
+date_opening: "2026-05-12"
+date_deadline: "2026-09-23"
+type_of_action: "HORIZON-RIA HORIZON Research and Innovation Actions"
+grant_type: "HORIZON Lump Sum Grant [HORIZON-AG-LS]"
+trl: "Computational Literacy Frameworks, NLP/SNA Audits & Policy Toolkits"
+region_scope: "Pan-European Digital Public Spheres (Multi-Actor Approach)"
+categories: [Digital Literacy, Online Word-of-Mouth, Green Value Chains, Computational Auditing]
+---
+
+## Programme
+
+{{< meta subtitle >}}
+
+::: {.callout-note icon=true}
+### 📣 Call Overview: {{< meta title >}}
+
+| Field | Details | Field | Details | Field | Details |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Status** | {{< meta status >}} | **Opening Date** | {{< meta date_opening >}} | **Closing Date** | {{< meta date_deadline >}} |
+| **Target Framework** | Digital Services Act (DSA) & EDMO | **Type Action** | {{< meta type_of_action >}} | **Type Grant** | {{< meta grant_type >}} |
+| **Submission Model** | Single-stage | **Geographic Target** | {{< meta region_scope >}} | | |
+
+**Note:** The deadline closes strictly at 17:00:00 Brussels time. In line with the **European Preparedness Union Strategy**, this topic demands a multi-actor approach to evaluate user behaviors, combat Foreign Information Manipulation and Interference (FIMI), and strengthen public trust during complex crises.
+:::
+
+### 🎁 Expected Outcome by the EU
+
+- 🏛️ **Evidence-Based Policy Guidance:** Provide EU institutions and national decision-makers with a better structural understanding of how to foster democratic resilience via targeted digital literacy.
+- 🧠 **Empowered, Discerning Citizenship:** Equip citizens with critical thinking skills to evaluate online information and confidently navigate emotionally manipulative or populist discourses.
+- 📊 **Advanced Methodological Toolkits:** Leverage computational techniques to detect, analyze, map, and mitigate systemic disinformation campaigns and polarization across mainstream and fringe digital platforms.
+
+---
+
+## 🛣️ Re-Centering the Scope: The "Online Word-of-Mouth" Angle on Green Supply Chains
+
+While typical media literacy projects evaluate generic political news, our proposal tackles an increasingly weaponized sub-arena of modern information warfare: **Online Word-of-Mouth (eWOM)** surrounding the **Twin Transition, green technologies, and democratic Global Value Chains (GVCs)**. 
+
+Geopolitical adversaries and corporate bad actors leverage targeted disinformation to stir public anxiety over resource scarcity, distort regulatory standards (e.g., EU CBAM, CSDDD), and create artificial panics regarding strategic green components. Our project reframes digital literacy as the public’s capacity to critically analyze, track, and unpack the corporate and national narratives formatting international trade and environmental sustainability.
+
+
+```
+[ Geopolitical / Corporate eWOM Narratives ]
+│
+( Algorithmic Amplification )
+│
+[ Emotional Public Polarization ]
+│
+[ Threat to Green GVC Policy & Trust ]
+```
+
+---
+
+## 🏗️ Core Research Strands & Computational Methodologies
+
+Our consortium breaks down the dynamic patterns of user behaviors through three interlinked, multi-actor innovation tracks:
+
+### 1. Mapping Emotional Dynamics in Green GVC Disinformation
+*   **Algorithmic Amplification Analysis:** Investigating how platform algorithms prioritize highly emotional, sensationalized online word-of-mouth content regarding green energy, semiconductor supply security, and sustainability initiatives.
+*   **Deconstructing Populist Post-Truth Discourses:** Analyzing how industrial green transition mandates are distorted to spark public confusion, accelerate societal polarization, and degrade trust in democratic regulatory institutions.
+
+### 2. Computational Auditing: SNA, NLP, and CIB Tracking
+*   **Social Network Analysis (SNA):** Mapping the diffusion pathways of viral online word-of-mouth to trace how environmental FIMI campaigns travel across distributed online networks.
+*   **Natural Language Processing (NLP):** Developing automated semantic frameworks to monitor multi-platform textual and visual content, identifying patterns of **Coordinated Inauthentic Behaviour (CIB)** aimed at manipulating green value chain perceptions.
+
+### 3. Next-Generation Media Literacy Strategies & Civic Tech
+*   **Critical Evaluation of Current Initiatives:** Conducting a systematic review of legacy media literacy guidelines to expose blind spots regarding economic, corporate, and technological supply chain literacy.
+*   **Sovereign Civic Tech Deployment:** Testing open-source civic tech dashboards that empower citizen-consumers to audit corporate sustainability claims, verify source transparency, and filter out bad-faith corporate "greenwashing" or synthetic environmental panic.
+
+---
+
+## 🧠 Systemic Foundations: Information Integrity in Multipolar Networks
+
+This research anchors its findings within established systemic theories—drawing on the cybernetic and institutional communication frameworks of **Karl Deutsch**, **Michael Polanyi**, and **Niklas Luhmann**. 
+
+By evaluating how digital public spaces process trust and risk during macroeconomic shifts, the project translates raw computational data (NLP/SNA outputs) into practical, lifelong media literacy toolkits tailored for educational bodies, civil society networks, and regulatory watchdogs.
+
+---
+
+## 🤝 Required Ecosystem Synergy
+
+To maximize strategic visibility and long-term policy uptake, our project intentionally coordinates with the following institutional layers:
+*   🇪🇺 **The European Digital Media Observatory (EDMO):** Coordinating directly with regional EDMO hubs to share threat intelligence regarding eco-systemic and trade-focused disinformation vectors.
+*   🔬 **The Joint Research Centre (JRC):** Seeking operational synergies with the JRC’s dedicated tracks on innovation for democracy and public governance.
+*   🔗 **Horizon Europe Clustering:** Allocating explicit tasks to build active cluster networks with parallel projects selected under this topic and the *European Partnership on Social Transformations and Resilience*.
+
+---
+
+*Official Reference:* [{{< meta title >}} - EU Funding & Tenders Portal](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2026-01-DEMOCRACY-10)
+

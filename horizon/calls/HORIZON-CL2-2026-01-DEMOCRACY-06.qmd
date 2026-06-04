@@ -1,0 +1,96 @@
+title: "HORIZON-CL2-2026-01-DEMOCRACY-09"
+subtitle: "Citizenship Education as Part of Lifelong Learning (Socio-Technical Transition Dynamics: AI, Semiconductors, and WEF Nexus Supply Chains)"
+topic_budget: "€3.00M to €4.00M (Standard Destination Estimate)"
+project_budget: "Standard Cluster 2 Allocation"
+project_numbers: "Multiple"
+status: "Open For Submission"
+date_opening: "2026-05-12"
+date_deadline: "2026-09-23"
+type_of_action: "HORIZON-RIA HORIZON Research and Innovation Actions"
+grant_type: "HORIZON Lump Sum Grant [HORIZON-AG-LS]"
+trl: "Conceptual Frameworks, Curriculum Pilots & Civic Toolkits"
+region_scope: "Pan-European Lifelong Learning Networks"
+categories: [Socio-Technical Architecture, Safe & Sustainable by Design, WEF Nexus, RegTech Manufacturing]
+---
+
+## Programme
+
+{{< meta subtitle >}}
+
+::: {.callout-note icon=true}
+### 📣 Call Overview: {{< meta title >}}
+
+| Field | Details | Field | Details | Field | Details |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Status** | {{< meta status >}} | **Opening Date** | {{< meta date_opening >}} | **Closing Date** | {{< meta date_deadline >}} |
+| **Target Audience** | Adult Learning & VET Networks | **Type Action** | {{< meta type_of_action >}} | **Type Grant** | {{< meta grant_type >}} |
+| **Submission Model** | Single-stage | **Geographic Target** | {{< meta region_scope >}} | | |
+
+**Note:** The deadline closes strictly at 17:00:00 Brussels time. This topic relies on a unified Part A electronic budget web form (no separate Excel sheets allowed). It officially targets the **Action Plan on Basic Skills**, recognizing citizenship—including economic literacy and crisis preparedness—as a baseline skill for modern democracy.
+:::
+
+### 🎁 Expected Outcome by the EU
+
+- 🛠️ **Civic Infrastructure Delivery:** Provide policymakers, educators, and community actors with validated tools and actionable recommendations to implement continuous civic and citizenship learning.
+- 🏛️ **Inclusive Democratic Preservation:** Lower institutional, economic, and socio-technical barriers to political and civic participation across all demographic layers and marginalized groups.
+- 🤝 **Ecosystem Resilience:** Build robust operational synergies alongside the **European Partnership on Social Transformations and Resilience**.
+
+---
+
+## 🗺️ Re-Centering the Scope: The Socio-Technical & SSbD Angle
+
+While the standard call text targets generic citizenship education, a healthy democracy cannot survive in a vacuum divorced from its physical and technological foundation. Rapid geopolitical, economic, and technological changes present immediate threats to social cohesion. 
+
+Our consortium targets **Adult Education and Vocational Education and Training (VET)** through a high-level **Safe and Sustainable by Design (SSbD)** framework. We reposition "citizenship awareness" as the capacity for the European workforce and public to comprehend, audit, and navigate the complex global supply chains feeding their digital and physical infrastructure.
+
+We structure our curriculum interventions around the systemic, five-fold nexus undercutting modern European autonomy:
+
+
+```text
+     [ AI & Frontier Compute ]
+                │
+     [ Semiconductor Fabs ]
+     ╱          │          ╲
+[ Water ] ── [ Energy ] ── [ Food ]
+```
+
+---
+
+## 🏗️ Core Curriculum Pillars & Lifelong Learning Pilot Tracks
+
+Our proposal develops, tests, and pilots innovative adult education curricula mapped to the baseline socio-technical stack:
+
+### 1. AI & Semiconductor Literacy as a Democratic Right
+*   **VET Track:** Upskilling advanced manufacturing technicians and cleanroom workers to understand the socio-technical implications of closed-loop algorithmic controls.
+*   **Adult Learning Track:** Demystifying frontier AI models and algorithmic recommender systems to cultivate advanced digital and media literacy skills, enabling citizens to recognize systemic supply chain disinformation or resource panics.
+
+### 2. The Water-Energy-Food (WEF) Nexus Supply Chain Governance
+*   **Resource Interdependence:** Constructing learning modules on the extreme resource inputs required by high-tech infrastructures (e.g., the high-purity water demands of semiconductor fabs, the energy footprint of AI data centers, and their structural competition with agricultural land and food systems).
+*   **Crisis Preparedness:** Training citizens in regulatory economics and European environmental mandates (such as CBAM and CSDDD), framing compliance as a form of democratic accountability and community survival.
+
+### 3. Inter-Generational Co-Design & Civic Tech Testing
+*   **Non-Digital & Digital Blending:** Deploying person-to-person, inter-generational dialogue spaces. This bridges aging populations (who often face digital barriers) with younger tech-native workers to co-design accessible **Civic Tech** auditing dashboards.
+*   **Intersectional Perspective:** Integrating a systematic intersectional perspective to ensure that marginalized groups, or those facing structural barriers, are actively participating in the democratic oversight of localized industrial expansions.
+
+---
+
+## 🔬 Scientific Foundations: Political Cybernetics
+
+Our approach directly applies the systemic frameworks of **Karl Deutsch** (*Nerves of Government*), **Michael Polanyi**, and **Niklas Luhmann** to study how structural communication blocks form inside complex systems. 
+
+By treating adult learning as an active informational feedback loop within democratic governance, the project measures how increasing public knowledge of SSbD principles directly lowers civic alienation, counters alignment faking in public systems, and elevates active democratic voting and policy engagement.
+
+---
+
+## 🤝 Consortium Alignment
+
+We are forming a robust, multi-disciplinary consortium to anchor this structural proposal:
+
+- 🏫 **Educational & VET Program Orchestrators:** Academic institutions, vocational schools, and adult education centers looking to pilot next-generation, high-tech civic curricula.
+- 🏭 **Industrial & Sustainable Development Partners:** Environmental groups, energy grid operators, water management boards, and semiconductor industry groups interested in fostering localized, democratic community trust.
+- 💻 **Civic Tech & SSH Researchers:** Specialists in information science, political science, and software engineering to develop open-source supply chain tracing and media literacy toolkits.
+
+---
+
+*Official Reference:* [{{< meta title >}} - EU Funding & Tenders Portal](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2026-01-DEMOCRACY-09)
+

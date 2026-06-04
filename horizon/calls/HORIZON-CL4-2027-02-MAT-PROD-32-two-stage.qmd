@@ -1,0 +1,97 @@
+---
+title: "HORIZON-CL4-2027-02-MAT-PROD-32-two-stage"
+subtitle: "Innovative AI Approaches for Human-Machine Collaboration in Advanced Manufacturing"
+topic_budget: "€52.50M"
+project_budget: "€7.00M to €9.00M"
+project_numbers: "6"
+status: "Forthcoming"
+date_opening: "2026-09-22"
+date_deadline: "2027-02-02"
+date_deadline_stg2: "2027-09-02"
+type_of_action: "Research and Innovation Action"
+grant_type: "Lump Sum Grant"
+trl: "TRL 4-5 to TRL 6"
+region_scope: "EU-Associated Countries / Global Value Chains"
+categories: [Applied AI, Human-Machine, Made in Europe, Two-Stage]
+---
+
+## Programme
+
+{{< meta subtitle >}} 
+
+::: {.callout-note icon=true}
+### 📣 Call Overview: {{< meta title >}} 
+
+| Field | Details | Field | Details | Field | Details |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Status** | {{< meta status >}} | **Opening Date** | {{< meta date_opening >}} | **Stage 1 Deadline** | {{< meta date_deadline_stg1 >}} |
+| **Target TRL** | {{< meta trl >}} | **Type Action** | {{< meta type_of_action >}} | **Stage 2 Deadline** | {{< meta date_deadline_stg2 >}} |
+| **Submission Model** | Two-stage | **Geographic Target** | {{< meta region_scope >}} | **Type Grant** | {{< meta grant_type >}} |
+| **Budget per Bid** | {{< meta project_budget >}} | **Expected Slots** | {{< meta project_numbers >}} slots available | **Total Allocation** | {{< meta topic_budget >}} |
+
+**Note:** Both deadlines close at 17:00:00 Brussels time. Proposals require a business case and exploitation strategy.
+:::
+
+### 🎁 Expected Outcome by the EU
+
+::: {.callout-important icon=true}
+### Expected Outcomes: {{< meta title >}} 
+- 🦾 **Transform industrial jobs** via AI-based human-machine interactions that enhance "flexibility, inclusion, well-being, up-skilling, career evolution and knowledge sharing".
+- 📈 **Boost manufacturing competitiveness** and sustainability through "knowledge formalization" and the adaptability of machinery across diverse workforce markets and different cultures.
+:::
+
+### 🏗️ Scope Summary
+
+::: {.callout-warning icon=true}
+### Scope: {{< meta title >}} 
+
+The proposals must produce dedicated innovative AI approaches for human-machine collaboration in advanced manufacturing, applied in at least two of the following fields:
+
+- 🎓 **Human-AI Co-Learning:** Capturing expert knowledge and formalizing "dispersed and not explicit" know-how to reduce onboarding times and facilitate continuous "workforce up-skilling".
+- 🤝 **Human-AI Teamwork:** Deploying innovative "natural interaction models" and hardware interfaces to control complexity in cognitive cooperating production systems, including planning at the shop-floor level.
+- 🌍 **Adaptive Automation Interfaces:** Automatically tailoring machine interactions to the "different abilities" and "different cultural needs" of the human workforce to ease technology export.
+
+⚖️ **Inclusive & Ethical Design:** Integrate a gender perspective, eliminate algorithmic bias, improve physical/cognitive ergonomics, and adhere to ethical principles represented in `Digital Humanism` with strong contributions from Social Sciences and Humanities (SSH).
+
+🔗 **Strategic Alignment Mandates:** Proposals must align with the `Applied AI Strategy`, build upon past projects in `Extended Reality Technologies (XR)` (e.g., `HORIZON-CL4-2021-HUMAN-01-13` / `14` / `25` / `06` / `28`), and implement the co-programmed European Partnerships `Made in Europe` and `AI, Data and Robotics`.
+:::
+
+## 🛣️ Strategic Alignment
+
+This Research and Innovation Action (RIA) focuses on foundational and applied breakthroughs (starting at **TRL 4-5**) to achieve operational validation in manufacturing environments (achieving **TRL 6**). 
+
+The socio-technical mandate directly addresses the twin transition by integrating human-centric AI design inside shifting global supply lines, preventing systemic knowledge loss during generational workforce transitions.
+
+::: {.callout-tip icon=true}
+### SCVCS' Technical Value Proposition
+We provide the underlying governance, RegTech capabilities, and architectural frameworks necessary to anchor an **AI Environmental/Reputation Governance Harness**. 
+
+This software platform layer (bridging **RegTech** and **FinTech**) provides the compliance instrumentation to audit human-machine systems, tracking ergonomic safety data, socio-technical value distribution, and cross-border regulatory alignments without creating data fragmentation.
+:::
+
+---
+
+## 🤝 SCVCS' Core Areas of Collaboration
+
+We are utilizing our research frameworks to establish structural bridges with partners targeting the following call mandates:
+
+1. 🔏 **Knowledge Capture & Data Sovereignty:** Creating structured data repositories to capture expert operational knowledge. We apply the [International Data Spaces](https://internationaldataspaces.org/) architecture alongside the [IEEE International Roadmap for Devices and Systems (IRDS) Environment, Safety, Health, and Sustainability (ESHS) roadmaps](https://irds.ieee.org/images/files/pdf/2024/2024IRDS_ESHS-ESSF.pdf) to ensure factory-floor training data respects worker privacy and localized data protection mandates.
+
+2. 🌊 **Socio-Economic Well-being Metrics:** Formulating frameworks to systematically monitor the "human well-being", inclusivity, and skill-acquisition metrics demanded by the call, translating shop-floor ergonomics into broader ESG reporting markers within modern value chains.
+
+3. 🏫 **Cross-Cultural Living Lab Deployments:** Bridging European manufacturing technology with international settings by analyzing how machine interfaces adapt to workforce networks across different regions, ensuring industrial scaling translates to local structural resilience.
+
+::: {.callout-note icon=true}
+### 👷 Consortium Engagement
+
+We are actively seeking to connect with:
+
+- 🇪🇺 **EU-Based Consortium Leads:** Project coordinators looking to integrate explicit socio-technical frameworks, `Digital Humanism` principles, or RegTech auditing mechanisms into their advanced manufacturing proposals.
+- 🏭 **Industrial & Technology Partners:** Automation vendors, XR developers, and manufacturing facilities eager to deploy co-learning AI pilots across diverse operational environments.
+:::
+
+> 📬 **Action Item:** To review joint deployment strategies or exchange Participant Identification Code (PIC) profiles, please reach out via our [Contact Page](/contact.qmd).
+
+---
+
+*Official Reference:* [{{< meta title >}} - EU Funding & Tenders Portal](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2027-02-two-stage-INDUSTRY)

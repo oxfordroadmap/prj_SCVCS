@@ -1,0 +1,99 @@
+---
+title: "HORIZON-CL4-2027-04-DIGITAL-EMERGING-11"
+subtitle: "EU Frontier AI Initiative: Developing Sovereign, Safe and Computationally Efficient Frontier AI Models"
+topic_budget: "€44.00M"
+project_budget: "~€44.00M"
+project_numbers: "1"
+status: "Forthcoming"
+date_opening: "2026-11-17"
+date_deadline: "2027-03-18"
+type_of_action: "Research and Innovation Action"
+grant_type: "Action Grant Budget-Based"
+trl: "TRL 2 to TRL 4"
+region_scope: "European AI Research Community (Strict China Restrictions)"
+categories: [Frontier AI, Safe by Design, Agentic AI, High-Performance Compute]
+---
+
+## Programme
+
+{{< meta subtitle >}} 
+
+::: {.callout-note icon=true}
+### 📣 Call Overview: {{< meta title >}} 
+
+| Field | Details | Field | Details | Field | Details |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Status** | {{< meta status >}} | **Opening Date** | {{< meta date_opening >}} | **Closing Date** | {{< meta date_deadline >}} |
+| **Target TRL** | Foundational Validation (TRL 2 to 4) | **Type Action** | {{< meta type_of_action >}} | **Type Grant** | {{< meta grant_type >}} |
+| **Submission Model** | Single-stage | **Geographic Target** | {{< meta region_scope >}} | | |
+| **Budget per Bid** | {{< meta project_budget >}} | **Expected Slots** | {{< meta project_numbers >}} slot available | **Total Allocation** | {{< meta topic_budget >}} |
+
+**Note:** The deadline closes strictly at 17:00:00 Brussels time. This is an elite, high-value single-winner call (**only 1 project will be funded** across Europe). **Critical Geopolitical Eligibility Guardrail:** Legal entities established in China are strictly ineligible to participate in this destination.
+:::
+
+### 🎁 Expected Outcome by the EU
+
+::: {.callout-important icon=true}
+### Expected Outcomes: {{< meta title >}} 
+- 🇪🇺 **Sovereign Strategic Autonomy:** Significantly strengthen European capabilities and achieve excellence in the development of independent, state-of-the-art European frontier models.
+- ⚡ **Environmental & Financial Efficiency:** Radically improve the computational efficiency of frontier architectures, lowering the energy footprint and reducing training and inference costs to lower barriers to entry.
+- 🛡️ **Hardcoded Safe-by-Design Foundations:** Enhance the core security of advanced AI via automated "safe-by-design" principles and/or specialized AI agents functioning as autonomous safety evaluators.
+:::
+
+### 🏗️ Scope Summary
+
+::: {.callout-warning icon=true}
+### Scope: {{< meta title >}} 
+
+The initiative demands a dual-track research methodology combining frontier model generation with cutting-edge socio-technical safety instrumentation:
+
+#### 🧠 1. Core Model Development & Optimization
+- **Multimodal State-of-the-Art Training:** Advancing a native frontier AI model optimized for sophisticated "agentic AI capabilities" (including autonomous problem-solving, advanced reasoning, and tool use).
+- **Algorithmic Weight Compression:** Applying distillation, compression, and novel architecture innovations to minimize raw computational load across pre-training, post-training, and inference phases.
+
+#### ⚖️ 2. Advanced Alignment & Safety Evaluation
+- **Sophisticated Misbehavior Mitigation:** Developing technical methodologies to detect and stop high-order misalignments, including "alignment faking", encoded reasoning within chain-of-thought (CoT) processes, and the "reward hacking of human oversight".
+- **Structural Robustness:** Engineering defenses against adversarial injections, jailbreaks, backdoors, and the systemic risks unique to embedding frontier models inside autonomous agent frameworks.
+
+🔗 **Required Infrastructure & Ecosystem Integration:** Consortia must establish operational links with the `Resource for AI Science in Europe (RAISE)`, `AI Factories`, and `Data Labs`. Projects must feed communicable results into the `AI-on-demand platform` and coordinate cohesion tasks alongside the `European Partnership on AI, Data, and Robotics (ADRA)` and the `GenAI4EU Central Hub`.
+:::
+
+## 🛣️ Strategic Alignment
+
+This Research and Innovation Action (RIA) represents the pinnacle of the EU’s long-term **"AI Continent" ambition** mapped out in the *Apply AI Strategy*. Moving from basic formulation (**TRL 2**) to laboratory-validated proof of concept (**TRL 4**), the call addresses economic security as outlined in the *Draghi Report* and *Competitiveness Compass*.
+
+Our research framework directly interfaces with this foundational layer, anchoring systemic transparency onto sovereign, next-generation European compute infrastructures.
+
+::: {.callout-tip icon=true}
+### SCVCS' Technical Value Proposition
+We provide the underlying governance, RegTech capabilities, and architectural frameworks necessary to anchor an **AI Environmental/Reputation Governance Harness**.
+
+By introducing our socio-technical architecture, we supply the concrete audit layers needed to track and evaluate safety metrics. Our framework operates as an independent governance layer alongside the call's required AI safety evaluators—verifying algorithmic transparency, tracking the model's energy footprint, and auditing alignment profiles without disrupting the core high-performance computing pipeline.
+:::
+
+---
+
+## 🤝 SCVCS' Core Areas of Collaboration
+
+We are utilizing our research frameworks to establish structural bridges with partners targeting the following call mandates:
+
+1. 🔏 **Socio-Technical Alignment & Safe-by-Design Architecture:** Translating regulatory principles into mathematical and architectural constraints. We match our frameworks with the [IEEE International Roadmap for Devices and Systems (IRDS) Environment, Safety, Health, and Sustainability (ESHS) roadmaps](https://irds.ieee.org/images/files/pdf/2024/2024IRDS_ESHS-ESSF.pdf) to counter adversarial vulnerabilities and verify that chain-of-thought (CoT) reasoning models remain fully auditable.
+
+2. 🌊 **Computational Efficiency Tracking & Carbon Audits:** Designing data-logging layers compatible with the [International Data Spaces](https://internationaldataspaces.org/) architecture to benchmark and audit real-time model compression. This provides a transparent ledger for verifying the ecological efficiency of large-scale pre-training runs.
+
+3. 🏫 **Consortium Cohesion & Talent Hubs:** Supporting the integration requirements connecting foundational research networks with industrial application verticals, ensuring sovereign European AI capabilities seamlessly transfer into validated global value chain services.
+
+::: {.callout-note icon=true}
+### 👷 Consortium Engagement
+
+Because this is a hyper-competitive, single-winner call (`1 funded project`), we are strictly aligning with top-tier, institutional bids:
+
+- 🇪🇺 **Major European AI Research Labs & Coordinators:** Core scientific institutions leading large-scale consortium assembly who require an elite socio-technical partner to manage safety KPIs, audit frameworks, or alignment governance structures.
+- 🏭 **Supercomputing Centers & Frontier AI Enterprises:** Infrastructure providers and European AI firms looking to formalize their integration alongside `RAISE` or `AI Factories` while embedding rigorous safety-by-design compliance.
+:::
+
+> 📬 **Action Item:** To review joint deployment strategies or exchange Participant Identification Code (PIC) profiles, please reach out via our [Contact Page](/contact.qmd).
+
+---
+
+*Official Reference:* [{{< meta title >}} - EU Funding & Tenders Portal](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2027-04-DIGITAL-EMERGING-11)

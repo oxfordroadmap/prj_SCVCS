@@ -1,0 +1,44 @@
+---
+title: "HORIZON-CL4-2027-04-DIGITAL-EMERGING-04"
+subtitle: "Apply AI: Challenge-Driven AI Innovation Booster in Apply AI Prioritised Sectors (Advanced Manufacturing — Semiconductor Fabs)"
+topic_budget: "€12.00M"
+project_budget: "€12.00M"
+project_numbers: "1"
+status: "Forthcoming"
+date_opening: "2026-11-17"
+date_deadline: "2027-03-18"
+type_of_action: "Research and Innovation Action (Partnership in AI, Data and Robotics)"
+grant_type: "Action Grant Budget-Based [HORIZON-AG] with Cascading Grants (FSTP)"
+trl: "TRL 2 to TRL 5"
+region_scope: "European AI, Data, and Robotics Ecosystem"
+categories: [Advanced Manufacturing, Semiconductor Fabs, Cascading Funding, FSTP]
+---
+
+## Programme
+
+{{< meta subtitle >}}
+
+::: {.callout-note icon=true}
+### 📣 Call Overview: {{< meta title >}}
+
+| Field | Details | Field | Details | Field | Details |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Status** | {{< meta status >}} | **Opening Date** | {{< meta date_opening >}} | **Closing Date** | {{< meta date_deadline >}} |
+| **Target TRL** | Prototype to Validation (TRL 2 to 5) | **Type Action** | {{< meta type_of_action >}} | **Type Grant** | {{< meta grant_type >}} |
+| **Submission Model** | Single-stage | **Geographic Target** | {{< meta region_scope >}} | | |
+| **Budget per Bid** | {{< meta project_budget >}} | **Expected Slots** | 1 project per sector (~{{< meta project_numbers >}} for Manufacturing) | **Total Allocation** | {{< meta topic_budget >}} allocated for FSTP |
+
+**Note:** The deadline closes strictly at 17:00:00 Brussels time. This topic implements the co-programmed **European Partnership on AI, data, and robotics (ADRA)**. Each proposal must focus exclusively on one prioritised sector; our consortium's target is **Advanced Manufacturing specifically tailored to Semiconductor Fabrication (Fabs)**.
+:::
+
+### 🎁 Expected Outcome by the EU
+
+- 🏭 **Targeted Industrial Breakthroughs:** Drive significant technological progress and innovation in Apply AI prioritised sectors through challenge-oriented, AI-powered solutions.
+- 🇪🇺 **SME Ecosystem Development:** Increase the competitiveness and visibility of the European AI developer community within high-stakes application domains, promoting collaborative approaches for industry-specific AI development.
+- 📈 **Accelerated AI Adoption:** Deepen the integration of trustworthy AI technologies and AI-powered robotics across crucial nodes of advanced manufacturing supply chains.
+
+---
+
+## 🏗️ The 3-Stage Cascading Funding (FSTP) Funnel
+
+The core responsibility of our managing consortium is the definition, organization, and execution of a multi-stage competition. We will act as the orchestrator providing infrastructure, data access, and technical/business mentoring, distributing exactly **€12,000,000** in Financial Support to Third Parties (FSTP) to agile SMEs:

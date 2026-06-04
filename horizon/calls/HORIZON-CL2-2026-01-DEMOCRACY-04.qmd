@@ -1,0 +1,100 @@
+---
+title: "HORIZON-CL2-2026-01-DEMOCRACY-04"
+subtitle: "Sustainable Paths to Media Viability"
+topic_budget: "€12.00M"
+project_budget: "€3.50M to €4.00M"
+project_numbers: "3"
+status: "Open For Submission"
+date_opening: "2026-05-12"
+date_deadline: "2026-09-23"
+type_of_action: "Innovation Action"
+grant_type: "Lump Sum Grant"
+trl: "Industrial and User-Driven Prototypes / Near-Market Deployment"
+region_scope: "Pan-European Media Networks"
+categories: [Media Viability, Applied AI, Digital Humanism, Open Call]
+---
+
+## Programme
+
+{{< meta subtitle >}} 
+
+::: {.callout-note icon=true}
+### 📣 Call Overview: {{< meta title >}} 
+
+| Field | Details | Field | Details | Field | Details |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Status** | {{< meta status >}} | **Opening Date** | {{< meta date_opening >}} | **Closing Date** | {{< meta date_deadline >}} |
+| **Target TRL** | Working Prototypes & Platforms | **Type Action** | {{< meta type_of_action >}} | **Type Grant** | {{< meta grant_type >}} |
+| **Submission Model** | Single-stage | **Geographic Target** | {{< meta region_scope >}} | | |
+| **Budget per Bid** | {{< meta project_budget >}} | **Expected Slots** | {{< meta project_numbers >}} slots available | **Total Allocation** | {{< meta topic_budget >}} |
+
+**Note:** The deadline closes strictly at 17:00:00 Brussels time. Part A contains an integrated budget form replacing the legacy Excel upload requirement. The call strongly encourages partnerships spanning media ecosystems, tech firms, and Social Sciences and Humanities (SSH).
+:::
+
+### 🎁 Expected Outcome by the EU
+
+::: {.callout-important icon=true}
+### Expected Outcomes: {{< meta title >}} 
+- 📰 **Reinforced Digital Transformation:** Accelerate the technological evolution of the news media industry by generating resilient, inclusive business models that anchor democratic stability.
+- 🗳️ **Empowered Citizenship:** Equip citizens—particularly those facing systemic disadvantages—with tools to access verified info, mitigating algorithmic fragmentation and promoting a fair democracy.
+- 🎯 **Emerging Creator Accountability:** Foster a trustworthy information ecosystem by actively engaging online content producers and influencers to increase reliance on verified journalistic principles.
+:::
+
+### 🏗️ Scope Summary
+
+::: {.callout-warning icon=true}
+### Scope: {{< meta title >}} 
+
+Applicants are invited to collaborate directly with news media organizations from inception to build workable prototypes, industrial applications, and interoperable standard frameworks across two primary action clusters:
+
+#### 🤖 Technological & Algorithmic Intervention
+- **Journalistic Content Recognition:** Design industry-led crawlers, browser plugins, common taxonomies, and metadata standards to categorize and prioritize content abiding by professional principles.
+- **AI-Driven Monetization Services:** Deploy AI models to build revenue-generating architectures, including dynamic paywalls, proprietary ad-tech metadata generators, search aggregators, and copyright revenue trackers.
+- **Trust-Oriented Recommender Systems:** Develop transparent recommender engines that mitigate "infotainment" bias, presenting plural viewpoints and ranking quality information over unverified opinions.
+
+#### 🧠 Behavioural & Systemic Interventions
+- **Behavioral Data Science:** Leverage behavioral interventions (nudges, gamification, educational indicators) to counter misinformation, analyzing how reader habits shape trust between human-curated and AI-driven news delivery.
+- **Social Media Creator Integration:** Advocate for transparency and source-disclosure mechanisms among online creators, federating media segments along a joint innovation agenda.
+
+🔗 **Infrastructure Requirements:** Where applicable, consortia should leverage data and services through European Research Infrastructures federated under the `European Open Science Cloud (EOSC)` and relevant institutional Data Spaces.
+:::
+
+## 🛣️ Strategic Alignment
+
+This Innovation Action (IA) centers on near-market, technical adaptation to keep journalism economically viable in AI-intermediated information spaces. By building proprietary ad-tech architectures and structured metadata systems, the call aims to shift news media away from reactive, click-driven models toward robust, sovereign distribution platforms.
+
+Our work bridges technical metadata standards with structural media governance to prevent systemic data fragmentation across digital public squares.
+
+::: {.callout-tip icon=true}
+### SCVCS' Technical Value Proposition
+We provide the underlying governance, RegTech capabilities, and architectural frameworks necessary to anchor an **AI Environmental/Reputation Governance Harness**.
+
+This software platform layer (bridging **RegTech** and **FinTech**) provides the exact tracking infrastructure required by this call's monetization and auditing mandates. By engineering transparent, user-centric metadata frameworks and ad-tech tracking protocols, our architecture verifies compliance with professional standards, ensures trust indicators are hardcoded into data storage, and provides advertisers with brand-safety feedback without creating algorithmic silos.
+:::
+
+---
+
+## 🤝 SCVCS' Core Areas of Collaboration
+
+We are utilizing our research frameworks to establish structural bridges with partners targeting the following call mandates:
+
+1. 🔏 **Metadata Standards & Data Sovereignty:** Implementing structured metadata registries and crawler taxonomies. We apply the [International Data Spaces](https://internationaldataspaces.org/) framework to ensure that newsroom content, when accessed by large AI aggregators, maintains trace ownership and captures appropriate copyright revenues while preserving data sovereignty.
+
+2. 🌊 **Socio-Technical Trust Cybernetics:** Applying systemic models to analyze public trust dynamics across human-curated and AI-driven delivery networks. This converts behavioral science theories into operational, transparent metrics within algorithmic recommender engines to foster inclusive democratic spaces.
+
+3. 🏫 **Co-Creation Testing Environments:** Partnering with regional media segments, tech platforms, and information science networks to build "Living Lab" style environments. These spaces allow journalists, community groups, and ad-tech companies to collaboratively iterate and test workable prototypes under real-world economic pressure.
+
+::: {.callout-note icon=true}
+### 👷 Consortium Engagement
+
+We are actively seeking to connect with:
+
+- 🇪🇺 **EU-Based Consortium Leads:** Media houses, academic research institutions, or ad-tech pioneers looking to integrate clear socio-technical engineering, systemic governance metrics, or RegTech monetization auditing into their Part B proposal layout.
+- 📰 **Independent Media Ecosystem Actors:** Sectoral media groups, public broadcasters, or independent creator networks seeking to anchor multi-perspective news aggregators or dynamic paywall prototypes.
+:::
+
+> 📬 **Action Item:** To review joint deployment strategies or exchange Participant Identification Code (PIC) profiles, please reach out via our [Contact Page](/contact.qmd).
+
+---
+
+*Official Reference:* [{{< meta title >}} - EU Funding & Tenders Portal](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2026-01-DEMOCRACY-04)
