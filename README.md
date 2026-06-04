@@ -1,3 +1,9 @@
+# So What?
+
+## Industry  
+
+* [SEMI Outstanding EHS Achievement Award | SEMI](https://www.semi.org/en/semi-organization/awards/ehs-achievement-award)
+
 # SCVCS
 - **Project Acronym:** SCVCS, **Pronunciation:** _“S-Civic-S”_ or _“S-C-V-C-S”_
 - **Project Title:** **S**afe and Sustainable by Design (SSbD) **C**hips **V**alue **C**hain **S**ervices: Orchestrating Data-Sovereign RegTech & FinTech Platforms for Semiconductor Ecosystems

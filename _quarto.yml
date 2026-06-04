@@ -2,6 +2,7 @@ project:
   type: website
   render:
     - "*.qmd"
+    - "horizon/**/*.qmd"  # <-- Explicitly tells Quarto to look deep inside horizon/
     - "!styles/"
 
 website:
@@ -42,6 +43,10 @@ website:
             href: project.qmd
           - text: "EU Part. B"
             href: Part.B.qmd # <--- And link to your new file
+      - text: "Horizon"
+        menu:
+          - text: "Upcoming Calls"    # The Wiki/Page style
+            href: horizon/tracker.qmd
       - href: team.qmd
         text: Team & Skills
       - href: contact.qmd

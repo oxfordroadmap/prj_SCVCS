@@ -1,0 +1,18 @@
+---
+title: "EU Horizon Horizon Intelligence Tracker"
+subtitle: "Structured watch-list of forthcoming and open calls."
+listing:
+  contents: calls
+  type: table
+  sort: "eu_deadline asc"
+  categories: true
+  fields: [eu_deadline, title, trl, region_scope, status]
+  field-display-names:
+    eu_deadline: "Closing Date"
+    title: "Call Reference"
+    trl: "Target TRL"
+    region_scope: "Region Scope"
+    status: "Status"
+---
+
+This wiki-style repository maps out forthcoming European digital and twin transition mandates relevant to our ongoing global value chain research.
