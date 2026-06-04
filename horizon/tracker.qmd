@@ -1,18 +1,40 @@
 ---
-title: "EU Horizon Horizon Intelligence Tracker"
+title: "EU Horizon Calls Tracker"
 subtitle: "Structured watch-list of forthcoming and open calls."
 listing:
+  id: horizon-calls-table
   contents: calls
   type: table
-  sort: "eu_deadline asc"
+  sort: "date_deadline asc"
   categories: true
-  fields: [eu_deadline, title, trl, region_scope, status]
+  fields: [date_deadline, title, trl, project_budget, project_numbers, region_scope, status]
   field-display-names:
-    eu_deadline: "Closing Date"
+    date_deadline: "Closing Date"
     title: "Call Reference"
     trl: "Target TRL"
+    project_budget: "Budget per Bid"
+    project_numbers: "Funded Slots"
     region_scope: "Region Scope"
     status: "Status"
 ---
 
 This wiki-style repository maps out forthcoming European digital and twin transition mandates relevant to our ongoing global value chain research.
+
+::: {#horizon-calls-table}
+:::
+
+---
+
+::: {.callout-note icon=true}
+### 👷 Consortium Engagement
+
+We are actively seeking to connect with:
+
+- 🇪🇺 **EU-Based Consortium Leads:** Established organizations looking to fulfill the international digital partnership mandates of the `Cluster 4` work program.
+
+- 🌍 **Regional Innovation Hubs:** Academic networks, municipal authorities, or technology hubs based around the world.
+
+:::
+
+
+> 📬 **Action Item:** To review joint deployment strategies or exchange Participant Identification Code (PIC) profiles, please reach out via our [Contact Page](/contact.qmd).

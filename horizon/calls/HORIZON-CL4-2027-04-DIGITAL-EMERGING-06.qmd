@@ -1,37 +1,39 @@
 ---
 title: "HORIZON-CL4-2027-04-DIGITAL-EMERGING-06"
 subtitle: "Challenge-Driven AI Innovation Booster in Applied AI Prioritised Sectors"
+topic_budget: "€3.00M"
+project_budget: "~€1.50M"
+project_numbers: "2"
 status: "Forthcoming"
-opening_date: "2026-11-17"
-eu_deadline: "2027-03-18"
-type_of_action: "Innovation Action (IA)"
+date_opening: "2026-11-17"
+date_deadline: "2027-03-18"
+type_of_action: "Innovation Action"
 grant_type: "Lump Sum Grant"
 trl: "TRL 5 to TRL 7"
 region_scope: "African Countries"
 categories: [Applied AI, Global Gateway, Living Labs, High-TRL]
 ---
 
-## 📣 Call Overview
+## Programme
 
-| Metadata Field | Details |
-| :--- | :--- |
-| **Programme** | {{< meta subtitle >}}) |
-| **Status** | {{< meta status >}} |
-| **Call ID** | {{< meta title >}} |
-| **Type Action** | {{< meta type_of_action >}} |
-| **Type Grant** | {{< meta grant_type >}} |
-| **Target TRL** | {{< meta trl >}} |
-| **Planned Opening** | {{< meta opening_date >}} |
-| **Closing Date** | {{< meta eu_deadline >}} |
-| **Geographic Target** | {{< meta region_scope >}} |
-| **Note** | Low- and middle-income countries (Explicitly prioritizing African Countries) |
-| **Submission Model** | Single-stage |
+{{< meta subtitle >}} 
+
+::: {.callout-note icon=true}
+### 📣 Call Overview: {{< meta title >}} 
+| Field | Details | Field | Details | Field | Details |
+| :--- | :--- |:--- |:--- |:--- |:--- |
+| **Status** | {{< meta status >}} | **Opening Date** | {{< meta date_opening >}} | **Closing Date** | {{< meta date_deadline >}} |
+| **Target TRL** | {{< meta trl >}} | **Type Action** | {{< meta type_of_action >}} | **Type Grant** | {{< meta grant_type >}} |
+| **Submission Model** | Single-stage | **Geographic Target** | {{< meta region_scope >}} |
+| **Budget per Bid** | {{< meta project_budget >}} | **Expected Slots** | {{< meta project_numbers >}} slots available | **Total** | {{< meta topic_budget >}} |
+
+**Note.**  Low- and middle-income countries (Explicitly prioritizing African Countries) |
+:::
 
 ### 🎁 Expected Outcome by the EU
 
 ::: {.callout-important icon=true}
-(low- and middle-income countries)
-
+### Expected Outcomes: {{< meta title >}} 
 - 🚀 Accelerate uptake of tailored **AI solutions hubs** via applied research and local data optimization.
 - 📈 Ease deployment of local AI via large-scale system demonstrations in operational environments.
 - 🌱 Strengthen ecosystems to drive socio-economic impact across education, health, agriculture, and environmental sustainability.
@@ -41,6 +43,7 @@ categories: [Applied AI, Global Gateway, Living Labs, High-TRL]
 ### 🏗️ Scope Summary
 
 ::: {.callout-warning icon=true}
+### Scope: {{< meta title >}} 
 
 The proposals must support digital partnerships and international digital cooperation to promote an approach to AI that enhances **human well-being** and **societal progress through**:
 
@@ -56,25 +59,26 @@ The proposals must support digital partnerships and international digital cooper
 
 :::
 
-## 🛣️ Strategic Alignment for Consortium Partners
+
+## 🛣️ Strategic Alignment
 
 This Innovation Action (IA) focuses on the practical adaptation, testing, validation, and deployment of existing European AI capabilities (starting at **TRL 5**) into operational, real-world environments (achieving **TRL 7**). 
 
 The primary geopolitical mandate aligns with the **EU’s Global Gateway Strategy**, fostering North-South digital cooperation through the creation of localized **Living Labs**.
 
----
 
 ::: {.callout-tip icon=true}
 
-### Our Technical Value Proposition
-
+### SCVCS' Technical Value Proposition
 We provide the underlying governance, RegTech capabilities, and architectural frameworks necessary to anchor an **AI Environmental/Reputation Governance Harness**. 
 
 This software platforem layer (likely **RegTech** and **FinTech**) bridges robust European technology with localized infrastructure to prevent "compliance tracking vulnerabilities" and "data fragmentation".
 
 :::
 
-### Core Areas of Collaboration
+---
+
+## 🤝 SCVCS' Core Areas of Collaboration
 
 We are utilizing our research frameworks to establish structural bridges with partners targeting the following call mandates:
 
@@ -84,18 +88,19 @@ We are utilizing our research frameworks to establish structural bridges with pa
 
 3. 🏫 **Living Lab Co-Creation:** Living Lab Co-Creation: Partnering with regional innovation hubs and universities to host "experiential testing environments" and "co-creation spaces". This alignment ensures that participation in Global Value Chains (GVC) proportionally translates into localized community resilience for critical energy, water, and food resources.
 
-
----
-
-## 👷 Consortium Engagement
+::: {.callout-note icon=true}
+### 👷 Consortium Engagement
 
 We are actively seeking to connect with:
 
 - 🇪🇺 **EU-Based Consortium Leads:** Established organizations looking to fulfill the international digital partnership mandates of the `Cluster 4` work program.
 
 - 🌍 **Regional Innovation Hubs:** Academic networks, municipal authorities, or technology hubs based in **`African Countries`** (e.g., Kenya) capable of anchoring a local Living Lab infrastructure.
+:::
+
 
 > 📬 **Action Item:** To review joint deployment strategies or exchange Participant Identification Code (PIC) profiles, please reach out via our [Contact Page](/contact.qmd).
 
 ---
+
 *Official Reference:* [{{< meta title >}} -  EU Funding & Tenders Portal](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2027-04-DIGITAL-EMERGING-06)
