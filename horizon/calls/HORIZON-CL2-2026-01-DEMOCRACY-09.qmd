@@ -1,9 +1,9 @@
 ---
 title: "HORIZON-CL2-2026-01-DEMOCRACY-09"
 subtitle: "Citizenship Education as Part of Lifelong Learning (Socio-Technical Transition Dynamics: AI, Semiconductors, and WEF Nexus Supply Chains)"
-topic_budget: "€3.00M to €4.00M (Standard Destination Estimate)"
-project_budget: "Standard Cluster 2 Allocation"
-project_numbers: "Multiple"
+topic_budget: "€3.00M to €4.00M"
+project_budget: "€16,000,000.00"
+project_numbers: "4"
 status: "Open For Submission"
 date_opening: "2026-05-12"
 date_deadline: "2026-09-23"
@@ -45,3 +45,69 @@ While the standard call text targets generic citizenship education, a healthy de
 Our consortium targets **Adult Education and Vocational Education and Training (VET)** through a high-level **Safe and Sustainable by Design (SSbD)** framework. We reposition "citizenship awareness" as the capacity for the European workforce and public to comprehend, audit, and navigate the complex global supply chains feeding their digital and physical infrastructure.
 
 We structure our curriculum interventions around the systemic, five-fold nexus undercutting modern European autonomy:
+
+See @fig-wef-nexus for our structural socio-technical framework mapping technological dependency.
+
+```mermaid
+#| id: fig-wef-nexus
+#| fig-cap: "The Dynamic Interdependence of Frontier Compute, Semiconductor Fabs, and the Water-Energy-Food Nexus."
+#| fig-align: center
+graph TD
+    classDef default fill:#f9f9f9,stroke:#333,stroke-width:1px;
+    classDef highlight fill:#e1f5fe,stroke:#0288d1,stroke-width:2px;
+
+    AI["AI & Frontier Compute"]:::highlight
+    Semi["Semiconductor Fabs"]:::highlight
+    Water["Water"]
+    Energy["Energy"]
+    Food["Food"]
+
+    AI --> Semi
+    Semi --> Water
+    Semi --> Energy
+    Semi --> Food
+    Water --- Energy
+    Energy --- Food
+
+    style AI font-weight:bold;
+    style Semi font-weight:bold;
+```
+
+## 🏗️ Core Curriculum Pillars & Lifelong Learning Pilot Tracks
+
+Our proposal develops, tests, and pilots innovative adult education curricula mapped to the baseline socio-technical stack:
+
+### 1. AI & Semiconductor Literacy as a Democratic Right
+*   **VET Track:** Upskilling advanced manufacturing technicians and cleanroom workers to understand the socio-technical implications of closed-loop algorithmic controls.
+*   **Adult Learning Track:** Demystifying frontier AI models and algorithmic recommender systems to cultivate advanced digital and media literacy skills, enabling citizens to recognize systemic supply chain disinformation or resource panics.
+
+### 2. The Water-Energy-Food (WEF) Nexus Supply Chain Governance
+*   **Resource Interdependence:** Constructing learning modules on the extreme resource inputs required by high-tech infrastructures (e.g., the high-purity water demands of semiconductor fabs, the energy footprint of AI data centers, and their structural competition with agricultural land and food systems).
+*   **Crisis Preparedness:** Training citizens in regulatory economics and European environmental mandates (such as CBAM and CSDDD), framing compliance as a form of democratic accountability and community survival.
+
+### 3. Inter-Generational Co-Design & Civic Tech Testing
+*   **Non-Digital & Digital Blending:** Deploying person-to-person, inter-generational dialogue spaces. This bridges aging populations (who often face digital barriers) with younger tech-native workers to co-design accessible **Civic Tech** auditing dashboards.
+*   **Intersectional Perspective:** Integrating a systematic intersectional perspective to ensure that marginalized groups, or those facing structural barriers, are actively participating in the democratic oversight of localized industrial expansions.
+
+---
+
+## 🔬 Scientific Foundations: Political Cybernetics
+
+Our approach directly applies the systemic frameworks of **Karl Deutsch** (*Nerves of Government*), **Michael Polanyi**, and **Niklas Luhmann** to study how structural communication blocks form inside complex systems. 
+
+By treating adult learning as an active informational feedback loop within democratic governance, the project measures how increasing public knowledge of SSbD principles directly lowers civic alienation, counters alignment faking in public systems, and elevates active democratic voting and policy engagement.
+
+---
+
+## 🤝 Consortium Alignment
+
+We are forming a robust, multi-disciplinary consortium to anchor this structural proposal:
+
+- 🏫 **Educational & VET Program Orchestrators:** Academic institutions, vocational schools, and adult education centers looking to pilot next-generation, high-tech civic curricula.
+- 🏭 **Industrial & Sustainable Development Partners:** Environmental groups, energy grid operators, water management boards, and semiconductor industry groups interested in fostering localized, democratic community trust.
+- 💻 **Civic Tech & SSH Researchers:** Specialists in information science, political science, and software engineering to develop open-source supply chain tracing and media literacy toolkits.
+
+---
+
+*Official Reference:* [{{< meta title >}} - EU Funding & Tenders Portal](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2026-01-DEMOCRACY-09)
+
