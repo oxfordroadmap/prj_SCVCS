@@ -48,30 +48,75 @@ We structure our curriculum interventions around the systemic, five-fold nexus u
 
 See @fig-wef-nexus for our structural socio-technical framework mapping technological dependency.
 
-```mermaid
-#| id: fig-wef-nexus
-#| fig-cap: "The Dynamic Interdependence of Frontier Compute, Semiconductor Fabs, and the Water-Energy-Food Nexus."
-#| fig-align: center
+
+The broken cross-reference rendering as **`?@fig-wef-nexus`** in `image_8b7247.png` occurs because of a syntax mismatch between Quarto's standard markdown figure referencing and how Mermaid diagrams parse code-chunk headers.
+
+When embedding a Mermaid diagram using a native `{mermaid}` executable code block, standard syntax rules apply. Here is how to fix the cross-reference rendering issue:
+
+---
+
+## The Solution: Standardizing the Native Mermaid Code Block
+
+To make Quarto recognize the ID and caption for an executable diagram block, change the python/R style comments (`#|`) to a standard **curly-brace block attribute format** directly on the markdown language tag.
+
+Modify the raw text in the `.qmd` document to use this structure:
+
+We structure our curriculum interventions around the systemic, five-fold nexus undercutting modern European autonomy:
+
+See @fig-wef-nexus for our structural socio-technical framework mapping technological dependency.
+
+```{mermaid}
+%%| id: fig-wef-nexus
+%%| fig-cap: "The Dynamic Interdependence of Frontier Compute, Semiconductor Fabs, and the Water-Energy-Food Nexus"
+%%| fig-align: center
 graph TD
     classDef default fill:#f9f9f9,stroke:#333,stroke-width:1px;
-    classDef highlight fill:#e1f5fe,stroke:#0288d1,stroke-width:2px;
+    classDef sector fill:#e1f5fe,stroke:#0288d1,stroke-width:2px;
+    classDef highlight fill:#f5e1fe,stroke:#8802d1,stroke-width:2px;
 
-    AI["AI & Frontier Compute"]:::highlight
-    Semi["Semiconductor Fabs"]:::highlight
     Water["Water"]
-    Energy["Energy"]
     Food["Food"]
+    Energy["Energy"]
 
-    AI --> Semi
-    Semi --> Water
-    Semi --> Energy
-    Semi --> Food
-    Water --- Energy
-    Energy --- Food
+    %% Explicit Left-to-Right Rank Alignment Group
+    subgraph WEF_Nexus ["Resilience Nexus"]
+        direction LR
+        Water["Water"]
+        Energy["Energy"]
+        Food["Food"]
+        Water --- Energy --- Food
+    end
+
+    %% Explicit Left-to-Right 
+    subgraph Minerals ["Minerals"]
+        direction LR
+        Petro_Chemical["Petro-Chemical"]
+        Rare_Earth["Rare Earth"]
+        Petro_Chemical --- Rare_Earth 
+    end
+
+    WEF_Nexus --> Community
+
+    Semi["Semiconductor Fabs"]:::sector
+    Community["Community"]:::highlight
+    AI["AI Compute"]:::sector
+
+    %% Primary Hierarchy
+    WEF_Nexus --> Semi
+    Semi --> AI
+    Community --> AI
+    Community --> Semi
+
+
+    Minerals --> Semi
+    
 
     style AI font-weight:bold;
     style Semi font-weight:bold;
+
 ```
+
+
 
 ## 🏗️ Core Curriculum Pillars & Lifelong Learning Pilot Tracks
 

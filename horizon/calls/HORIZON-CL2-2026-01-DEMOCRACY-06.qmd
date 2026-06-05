@@ -1,3 +1,4 @@
+---
 title: "HORIZON-CL2-2026-01-DEMOCRACY-09"
 subtitle: "Citizenship Education as Part of Lifelong Learning (Socio-Technical Transition Dynamics: AI, Semiconductors, and WEF Nexus Supply Chains)"
 topic_budget: "€3.00M to €4.00M (Standard Destination Estimate)"
