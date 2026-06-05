@@ -1,0 +1,91 @@
+---
+title: "Tech Sovereignty Package: US-EU split or Supoply Chain Resillience"
+subtitle: "From Regulatory Imperatives to Supply Chain Realities in the Taiwan-ASEAN Corridor"
+author: "Han-Teng Liao, DPhil (Oxon)"
+date: "2026-06-04"
+categories: [Geopolitics, Tech Governance, Regulatory Economics, Supply Chains]
+bibliography: references.bib
+citation: true
+format:
+  html:
+    toc: true
+    code-fold: true
+---
+
+Is this US-EU split ... in Tech?
+
+## Video Summary: Why Europe is Ditching US Infrastructure
+
+{{< video https://www.youtube.com/watch?v=xxq6cuQWzBM >}}
+
+The dream of a borderless, globally unified internet is rapidly succumbing to the cold realities of systemic geopolitical decoupling. For decades, the European Union operated primarily as a regulatory superpower, exporting standard-setting frameworks like GDPR across the Atlantic. Today, however, that passive regulatory stance has hardened into active, defensive infrastructure building. Driven by economic anxieties, cybersecurity vulnerabilities, and the acute pain of past dependencies, the EU is aggressively pushing for "Tech Sovereignty."
+
+This post deconstructs the shifting systemic dynamics of European digital protectionism, summarizes the structural drivers behind the EU’s pivot away from US big tech, and links these developments to the broader reshaping of technology Global Value Chains (GVCs) impacting the Taiwan-ASEAN corridor[cite: 1].
+
+## Video Summary: Why Europe is Ditching US Infrastructure
+
+The foundational thesis of the analysis in @TechSovereigntyVideo centers on a glaring systemic contradiction: while Europe champions strategic autonomy, its entire digital, corporate, and governmental fabric remains utterly dependent on American tech infrastructure. From communication layers (WhatsApp, Signal) to deep cloud computing architecture (AWS, Microsoft Azure) and defense logistics, the EU effectively operates as a digital colony of Silicon Valley.
+
+@TechSovereigntyVideo details how this structural vulnerability has forced European states—particularly France and Germany—to initiate a coordinated, multi-pronged infrastructure exit:
+
+*   **Communication Decoupling:** European institutions and ministries are actively banning consumer-grade American messaging apps like WhatsApp. In their place, state agencies are deploying sovereign alternatives built on open-source, end-to-end encrypted protocols (such as Matrix and Element) to insulate state secrets from foreign intelligence collection.
+*   **The Sovereign Cloud Imperative:** The video outlines the profound anxieties surrounding the US CLOUD Act, which grants American law enforcement extraterritorial access to data stored by US companies, regardless of where the servers physically sit. This legal clash has catalyzed initiatives like Gaia-X to repatriate data infrastructure.
+*   **Defense and Hardware Autonomy:** Prompted by geopolitical friction, Europe is realizing that relying on external actors for critical AI, cloud, and semiconductor hardware is a fundamental risk to state survival. 
+
+The core takeaway is clear: Europe's pivot is no longer just about privacy laws; it is an industrial policy shift aimed at dismantling foreign tech monopolies before they become permanent vulnerabilities.
+
+## The EU Tech Sovereignty Package and Regulatory Protectionism
+
+This infrastructural retreat is backed by massive legislative muscle. The European Commission has rolled out a sweeping "Tech Sovereignty Package" designed to systematically de-risk the continent’s digital supply chains [@EUTechSovereignty2026]. Rather than relying on trade reciprocity, Brussels is deploying market-access rules as a geopolitical shield. 
+
+As reported by financial analysts, this regulatory protectionism serves a dual purpose [@FTTechSovereignty2026]. Domestically, it aims to clear out market space for homegrown European technology champions. Internationally, it functions as a digital tariff wall. By imposing severe compliance frameworks under the Digital Markets Act (DMA) and the AI Act, Europe is intentionally raising the cost of doing business for external players, effectively penalizing foreign hyperscalers [@CNBCEuropeTech2026].
+
+However, this strategy faces severe economic headwinds. Think-tank analyses highlight that creating "fortress Europe" in cyberspace risks choking off the very innovation the EU desperately needs to catch up [@CEPAnaTech2026]. European cloud and software alternatives frequently suffer from fragmented deployment, lower scaling velocities, and a lack of venture capital compared to their American and Chinese counterparts. 
+
+## Systemic Decoupling and Global Value Chain Fracturing
+
+From a socio-technical architecture perspective, Europe’s digital sovereignty push cannot be viewed in isolation. It is part of a larger macro pattern: the disintegration of integrated Global Value Chains (GVCs) driven by geopolitical fracturing[cite: 1]. 
+
+Just as the accelerating tensions between Washington and Beijing have forced a strategic realignment of precision manufacturing away from China and toward the secure Taiwan-ASEAN semiconductor corridor (such as the Taipei-Penang-Kulim tech ecosystems), Europe’s tech sovereignty mandate adds another layer of friction[cite: 1]. Global value chain orchestrators—from chip designers like Nvidia to manufacturers like TSMC—are no longer merely optimizing for cost and yield[cite: 1]. They are now forced to architect their service operations to comply with conflicting, localized sovereign mandates[cite: 1].
+
+
+```{mermaid}
+%%| id: fig-gvc-breakdown
+%%| fig-cap: "Global Value Chain Fracturing: European Regulatory Mandates vs. Taiwan-ASEAN Industrial Realignment"
+%%| fig-align: center
+graph TB
+    classDef default fill:#f9f9f9,stroke:#333,stroke-width:1px;
+    classDef highlight fill:#e1f5fe,stroke:#0288d1,stroke-width:2px;
+    classDef highlight_block fill:#e1f5fe,stroke:#0288d1,stroke-width:2px;
+
+    %% Main Root Node
+    GVC["Global Value Chains (GVC) Fracturing"]
+
+    %% Root splits down to the horizontal components
+    GVC --> Corridor_Realignment
+
+    %% Explicit Left-to-Right Rank Alignment Group to lock horizontal baseline
+    subgraph Corridor_Realignment ["Corridor_Realignment"]
+        direction LR
+        
+        EU["<b>European Sovereignty</b><br>• Regulatory Tech Tariffs<br>• Sovereign Cloud / Gaia-X<br>• DMA & Data Repatriation"]:::highlight
+        
+        SEA["<b>Taiwan-ASEAN Corridor</b><br>• De-risking Manufacturing<br>• Ecosystems (Taipei-Penang)<br>• Hardware & Metrology Hubs"]:::highlight
+        
+        %% Invisible baseline link to force horizontal rank equality
+        EU --- SEA
+    end
+
+    linkStyle 2 stroke:none,stroke-width:0px;
+```
+
+For instance, upcoming European trade and sustainability mandates, such as the Carbon Border Adjustment Mechanism (CBAM) and Safe and Sustainable by Design (SSbD) frameworks, are being integrated directly into industrial auditing logic[cite: 1]. European tech sovereignty means that data regarding the carbon footprint, chemical composition, and supply-chain origin of microchips must be fully transparent, auditable, and stored within verifiable, sovereign data spaces[cite: 1]. Consequently, the hardware hubs of East Asia must pivot to support the regulatory data architectures demanded by a protectionist Europe[cite: 1].
+
+## Conclusion: The Era of Splinternets and Sovereign Stacks
+
+Europe’s determination to ditch WhatsApp and build localized, sovereign infrastructure signals the definitive end of globalized tech optimism [@TechPolicyPress2026]. The future belongs to regionalized, highly regulated "sovereign stacks." For researchers and system architects navigating this fractured terrain, the challenge lies in building the cross-border digital bridges capable of translating regional data realities into international, standard-compliant reference models, ensuring continuity across an increasingly divided global economy[cite: 1].
+
+## References
+
+::: {#refs}
+:::

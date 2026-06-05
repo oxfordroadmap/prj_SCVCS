@@ -37,6 +37,10 @@ website:
         menu:
           - text: "Working Papers"
             href: publications/working-papers.qmd # <--- And link to your new file
+      - text: "Publications"
+        menu:
+          - text: "Insights"
+            href: posts/index.qmd
       - text: "Project"
         menu:
           - text: "Information"
