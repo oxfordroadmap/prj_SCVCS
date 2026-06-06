@@ -93,6 +93,83 @@ a {
   display: inline-block; /* Crucial fix for gradient clipping behavior in some browsers */
 }
 
+
+// ==========================================
+// High-Density Code-Like Listing Matrix
+// ==========================================
+.quarto-listing-table.table {
+  font-family: var(--bs-font-sans-serif); // Enforce modern sans-serif
+  font-size: 0.85rem;                    // Drop baseline type size for high density
+  width: 100%;
+  margin-bottom: 2rem;
+  border-collapse: collapse;
+  
+  // Dense Row Trimming
+  thead tr th,
+  tbody tr td {
+    padding: 0.35rem 0.6rem !important; // Absolute minimum vertical clearance
+    line-height: 1.25 !important;       // Compact text wrapper profiles
+    vertical-align: middle;
+    border-bottom: 1px solid #e2e8f0;   // Subtle wireframe line dividers
+  }
+
+  // Header System Architecture
+  thead {
+    border-bottom: 2px solid #cbd5e1;
+    tr th {
+      font-weight: 600;
+      color: #475569;
+      text-transform: uppercase;         // Structured, database-like layout
+      font-size: 0.75rem;
+      letter-spacing: 0.05em;
+    }
+    a.sort {
+      color: #475569;
+      text-decoration: none;
+      &:after { opacity: 0.5; }
+    }
+  }
+
+  // Monospace Code-Like Overrides for Technical Data
+  tbody tr {
+    transition: background-color 0.15s ease;
+    
+    &:hover {
+      background-color: #f8fafc;        // Clean, low-contrast row highlighting
+    }
+
+    // Isolate dates and call references into raw console-like layouts
+    .listing-date_deadline,
+    .listing-title {
+      font-family: var(--bs-font-monospace); 
+      font-size: 0.825rem;
+      letter-spacing: -0.025em;
+    }
+
+    // Clean up call reference link styling
+    .listing-title {
+      font-weight: 600;
+      color: #0f172a;
+      text-decoration: none;
+      
+      &:hover {
+        color: #0078D4;                 // Maps to your core brand accent color
+        text-decoration: underline;
+      }
+    }
+    
+    // Status Metadata Badge Formatting
+    .listing-status {
+      font-size: 0.75rem;
+      font-weight: 500;
+      padding: 0.1rem 0.4rem;
+      border-radius: 3px;
+      background-color: #f1f5f9;
+      color: #334155;
+    }
+  }
+}
+
 // Landing/Hero Page Adjustments (Keeps your custom component layouts)
 .welcome-text {
   line-height: 1.9;
