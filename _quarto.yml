@@ -28,16 +28,24 @@ website:
     search: true
     title: false
     logo: images/logo.png
-    # Let the custom.scss fully control the background transitions
+    background: "#F6F5F3"
     logo-alt: "SCVCS Initiative By Footprints.CV"
     left:
       - href: index.qmd
         text: Home
-      - text: "Publications"
+      - text: "Outputs"
         menu:
-          - text: "Working Papers"
+          - text: "◔⚡Ideation Abstracts"
+            href: under_construction.qmd 
+          - text: "---"
+          - text: "◑🧪Working Papers"
             href: publications/working-papers.qmd # <--- And link to your new file
-      - text: "Publications"
+          - text: "---"
+          - text: "◕✅Peer-Reviewed Papers"
+            href: under_construction.qmd # <--- And link to your new file
+          - text: "◔⚡Ideation Abstracts"
+            href: under_construction.qmd
+      - text: "Posts"
         menu:
           - text: "Insights"
             href: posts/index.qmd
@@ -51,8 +59,8 @@ website:
         menu:
           - text: "Upcoming Calls"    # The Wiki/Page style
             href: horizon/tracker.qmd
-      - href: team.qmd
-        text: Team & Skills
+      - href: services.qmd
+        text: Services & Skills
       - href: contact.qmd
         text: Contact
 

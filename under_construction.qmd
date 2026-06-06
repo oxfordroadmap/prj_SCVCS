@@ -1,0 +1,34 @@
+---
+title: "Under Construction"
+subtitle: "Formal & Institutional Research Outputs"
+page-layout: article
+toc: false
+---
+
+::: {.text-center .my-5}
+# ◑ Architectural Integration in Progress
+The structural framework for this repository section is currently being compiled.
+:::
+
+---
+
+## 📊 Current Roadmap Status
+
+We are transitioning our research pipeline into distinct bibliometric layers. This page is stepping through the validation matrix:
+
+::: {.stone-background .p-4 .my-4}
+* **`◔` Idea Seed Bank:** Active & Live (See [Insights](../posts/index.qmd))
+* **`◑` Working Papers & Preprints:** Frameworks actively updating.
+* **`◕` Peer-Reviewed Proceedings:** **[Current Phase]** Mapping metadata for upcoming conference tracks.
+* **`⬤` Journal Articles (Indexed):** Structuring permanent archives.
+:::
+
+::: {.callout-note appearance="simple"}
+## 💡 Looking for specific draft materials?
+If you are an international reviewer, academic collaborator, or corporate partner requiring immediate access to the forthcoming **EU-ASEAN Semiconductor Initiative** briefs or specific engineering roadmaps, please contact the secretariat directly.
+:::
+
+::: {.text-center .mt-5}
+[Go Back Home](../index.qmd){.btn .btn-outline-primary .btn-sm role="button"}
+[Contact Secretariat](mailto:contact@footprints.cv){.btn .btn-primary .btn-sm role="button"}
+:::

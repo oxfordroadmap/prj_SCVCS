@@ -1,5 +1,5 @@
 ---
-title: "Team & Competencies"
+title: "Services & Competencies"
 subtitle: "Multi-Disciplinary Expertise for Atoms-to-Law Research"
 toc: true
 ---
