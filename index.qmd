@@ -5,7 +5,7 @@ page-layout: full
 ---
 
 ::: {.callout-note collapse="true" appearance="simple" style="background: #E8F5E9"}
-## ♻️ **SSbD (Safe and Sustainable by Design)** See [EU SSbD Hub](https://www.safeandsustainablebydesign.eu/ssbd/), [PARC SSbD Toolbox](https://www.parc-ssbd.eu/), [IRISS](https://iriss-ssbd.eu/iriss)
+## **SSbD (Safe and Sustainable by Design)** ♻️ See [EU SSbD Hub](https://www.safeandsustainablebydesign.eu/ssbd/), [PARC SSbD Toolbox](https://www.parc-ssbd.eu/), and [IRISS](https://iriss-ssbd.eu/iriss). Click here for more Info.
 
 Once [a voluntary approach](https://publications.jrc.ec.europa.eu/repository/handle/JRC128591) to guide the innovation process for chemicals and materials, the [December 2025 revised framework](https://publications.jrc.ec.europa.eu/repository/handle/JRC143022) features a "**systemic approach to integrate safety, sustainability and functionality of products and processes throughout their life cycle**, from design to end-of-life, with a view to reuse and recycling (circularity)."
 
@@ -34,20 +34,42 @@ We bridge the gap between advanced manufacturing physics and absolute sustainabi
 
 ### The SCVCS Pillars (System of Systems)
 
-::: {.feature-box style="background: #E8F4F8; padding: 15px; border-left: 4px solid #0078D4; margin-bottom: 15px;"}
-🔬 **RealSoS (Physical Metrology & Cybernetics)**
-Multi-rate data streams executing SIPAEA loops for real-time yield & emission footprint balancing.
+::: {#pillarCarousel .carousel .slide data-bs-ride="carousel" data-bs-interval="5000"}
+
+::: {.carousel-indicators style="margin-bottom: -1rem;"}
+<button type="button" data-bs-target="#pillarCarousel" data-bs-slide-to="0" class="active" aria-current="true" style="background-color: #0078D4;"></button>
+<button type="button" data-bs-target="#pillarCarousel" data-bs-slide-to="1" style="background-color: #F0AD4E;"></button>
+<button type="button" data-bs-target="#pillarCarousel" data-bs-slide-to="2" style="background-color: #28A745;"></button>
 :::
 
-::: {.feature-box style="background: #FFF4E6; padding: 15px; border-left: 4px solid #F0AD4E; margin-bottom: 15px;"}
-🛡️ **GuardSoS (Governance & Security)**
-Hardware-rooted Trusted Execution Environments (TEEs) ensuring data sovereignty and Policy-as-Code.
+::: {.carousel-inner .border .rounded .shadow-sm .text-center}
+
+::: {.carousel-item .active style="min-height: 160px; padding: 2.5rem 4rem; background-color: #E8F4F8; border-left: 6px solid #0078D4;"}
+#### 🔬 {{< iconify material-symbols monitoring >}} **RealSoS (Physical Metrology & Cybernetics)**
+
+(Intelligent) Data streams executing **Sense-Interpret-Plan-Act-Evaluate-Adapt (SIPAEA)** framework loops to configure yield and emission footprint balancing profiles, from seconds to quarters.
 :::
 
-::: {.feature-box style="background: #E8F5E9; padding: 15px; border-left: 4px solid #28A745; margin-bottom: 15px;"}
-♻️ **AuditSoS (Financial & Supply Chain Innovation)**
-Regeneratively accountable Scope 3 footprints translated into certified Digital Product Passports (DPP).
+::: {.carousel-item style="min-height: 160px; padding: 2.5rem 4rem; background-color: #FFF4E6; border-left: 6px solid #F0AD4E;"}
+#### 🛡️ {{< iconify material-symbols encrypted >}} **GuardSoS (Governance & Security)**
+
+(Reliable) Systems integrating hardware-based **Trusted Execution Environments (TEEs)** and private or public cloud-based **"International Data Space"** (including European Industrial Data Space) to ensure sensor data integrity, data sovereignty and federated learning.
 :::
+
+::: {.carousel-item style="min-height: 160px; padding: 2.5rem 4rem; background-color: #E8F5E9; border-left: 6px solid #28A745;"}
+#### ♻️ {{< iconify material-symbols partner-exchange >}} **AuditSoS (Financial & Supply Chain Innovation)**
+
+(Compliant) Agentic workflows running **Regenerative Accounting** RegTech and FinTech functions to process and generate certified Digital Product Passports (DPP) for cost-effecitve compliance.
+:::
+
+:::
+
+<button class="carousel-control-prev" type="button" data-bs-target="#pillarCarousel" data-bs-slide="prev" style="width: 5%;"><span class="carousel-control-prev-icon" aria-hidden="true" style="filter: invert(1); opacity: 0.4;"></span></button>
+<button class="carousel-control-next" type="button" data-bs-target="#pillarCarousel" data-bs-slide="next" style="width: 5%;"><span class="carousel-control-next-icon" aria-hidden="true" style="filter: invert(1); opacity: 0.4;"></span></button>
+
+:::
+
+
 
 ---
 
