@@ -18,32 +18,54 @@ $light-bg: #F6F5F3;
 $dark-text: #333333;
 $light-text: #666666;
 
-// Typography
-$font-family-sans-serif: "Nunito Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+// Premium Bilingual Typography Architecture
+$font-family-sans-serif: 
+  "Nunito Sans",                  // Primary English typeface
+  -apple-system, 
+  BlinkMacSystemFont, 
+  "Segoe UI", 
+  Roboto, 
+  "Helvetica Neue", 
+  "PingFang TC",                  // High-end Mac/iOS Traditional Chinese
+  "Microsoft JhengHei",           // High-end Windows Traditional Chinese
+  "Noto Sans TC",                 // Google open-source Traditional Chinese fallback
+  Arial, 
+  sans-serif;
+$font-family-serif:      
+  "Georgia", 
+  "Times New Roman", 
+  "Source Han Serif TC",     // Elite open-source cross-platform Chinese Serif
+  "Noto Serif TC",           // Google equivalent
+  "Songti TC",               // Premium native macOS Traditional Chinese Serif
+  "華康明體", "PMingLiU",    // Native Windows system Traditional Chinese Serif
+  serif;
 $headings-font-weight: 700;
+
+// THE BILINGUAL FIX: Calibrated for mixed-density character tracks
+$font-size-base:         1.125rem; // Lifted slightly more (~18px) to make complex strokes legible
+$line-height-base:       1.85;     // Expanded to 1.85 so vertical lines don't collide
 
 /*-- scss:rules --*/
 // Custom Classes
 
-// Clean Technical Section Headings
-h1, h2, h3, h4, h5, h6 {
+// Global Headers (Clean, Modern Sans-Serif Contrast)
+h1, h2, h3, h4, h5, h6, .subtitle {
+  font-family: $font-family-sans-serif !important;
   color: $primary;
   font-weight: 700;
-  margin-top: 1.5em;
+  margin-top: 0.5em;
 }
 // Headings
 h1 {
   border-bottom: 2px solid #ecf0f1; // Subtle underline instead of thick blue
   padding-bottom: 0.4rem;
   font-size: 2rem;
-  font-family: $font-family-sans-serif !important;
 }
 
 h2, .subtitle {
   border-bottom: 1px solid #f4f6f6;
   padding-bottom: 0.3rem;
-  font-size: 1.6rem;
-  font-family: $font-family-sans-serif !important;
+  font-size: 1.4rem;
 }
 
 
@@ -72,6 +94,10 @@ a {
 }
 
 // Landing/Hero Page Adjustments (Keeps your custom component layouts)
+.welcome-text {
+  line-height: 1.9;
+}
+
 .welcome-headline {
   font-size: 3rem;
   font-weight: 800;
@@ -96,7 +122,7 @@ a {
     transform: translateY(-2px);
   }  
   strong {
-    font-size: 1.15rem;
+    font-weight: bold;
   }
 }
 
@@ -139,6 +165,23 @@ a {
   }
 }
 
+// Force the Table of Contents & Sidebar to remain strictly Sans-Serif
+#quarto-toc-sidebar, .sidebar,  #quarto-sidebar {
+  font-family: $font-family-sans-serif !important;  
+  nav ul li a {
+    font-size: 0.95rem !important; 
+    font-family: $font-family-sans-serif !important;
+  }
+}
+
+// Paragraph & Document Body (Sophisticated Literary Serif)
+p, ol li, ul li {
+  font-family: $font-family-serif !important; // Explicit serif routing
+  font-size: 1rem;
+  color: $body-color;
+  margin-bottom: 0.75rem; // Gives paragraphs breathing room
+}
+
 // Code blocks
 // Technical Markdown Components (Code & Execution blocks)
 code {
@@ -146,7 +189,7 @@ code {
   color: #e74c3c; // Sharp inline variable highlight 
   padding: 0.2em 0.4em;
   border-radius: 3px;
-  font-family: "Courier New", monospace;
+  font-family: var(--bs-font-mono);
   font-size: 85%;
   border: 1px solid #eaeded;
 }
@@ -158,6 +201,12 @@ pre {
   border-radius: 4px;
   padding: 1rem;
 }
+
+// Feature Box
+.feature-box {
+  font-size: small;
+}
+
 
 // Book/Report Style Callouts
 .callout {
