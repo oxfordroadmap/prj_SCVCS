@@ -14,27 +14,9 @@ Aiming to support researarch and innovation (R&I) and product development, SSbD 
 **Keywords**: Safety of chemicals, "Dangerous Substances Directive" (DSD), Green Chemistry, Green Engineering, Sustainable Development Goals (SDGs), cost-effectiveness, regulatory requirements, Continuous Integration (CI), Continuous Delivery (CD)
 :::
 
-::: {.content-container .scvcs-background .welcome}
+## 🧱 The SCVCS Pillars (System of Systems): RealSoS, GuardSoS, and AuditSoS
 
-## 📢 Open Call for Research & Industrial Collaboration
-
-The **SCVCS initiative** is establishing a pioneering **Atoms-to-Law** framework to operationalize a Regenerative Socio-Technical (RST) roadmap for the global semiconductor industry. We are actively seeking to expand our international consortium for upcoming funding tracks.
-
-> ### 🤝 Consortium Expansion Targets:
-> * **2–3 EU/UK Partners:** Specializing in advanced physical metrology, confidential computing (TEEs), or ecological economics.
-> * **1–2 ASEAN Partners:** Semiconductor manufacturing facilities, packaging/testing hubs, or regional Global Business Services (GBS 5.0) networks.
-
-We bridge the gap between advanced manufacturing physics and absolute sustainability metrics by turning compliance into an automated, data-sovereign manufacturing service.
-
-[Button: Download Consortium Briefing Pack](project.pdf){.btn .btn-primary} 
-[[Learn More About the Project Approach →](project.qmd)]{.btn .btn-outline-secondary}
-
-:::
-
-
-### The SCVCS Pillars (System of Systems)
-
-::: {#pillarCarousel .carousel .slide data-bs-ride="carousel" data-bs-interval="5000"}
+::: {#pillarCarousel .carousel .slide data-bs-ride="carousel" data-bs-interval="3000"}
 
 ::: {.carousel-indicators style="margin-bottom: -1rem;"}
 <button type="button" data-bs-target="#pillarCarousel" data-bs-slide-to="0" class="active" aria-current="true" style="background-color: #0078D4;"></button>
@@ -44,22 +26,22 @@ We bridge the gap between advanced manufacturing physics and absolute sustainabi
 
 ::: {.carousel-inner .border .rounded .shadow-sm .text-center}
 
-::: {.carousel-item .active style="min-height: 160px; padding: 2.5rem 4rem; background-color: #E8F4F8; border-left: 6px solid #0078D4;"}
-#### 🔬 {{< iconify material-symbols monitoring >}} **RealSoS (Physical Metrology & Cybernetics)**
+::: {.carousel-item .active style="min-height: 160px; padding: 1.25rem 6rem; background-color: #E8F4F8; border-left: 6px solid #0078D4;"}
+### 🔬 {{< iconify material-symbols monitoring >}} **RealSoS (Physical Metrology & Cybernetics)**
 
 (Intelligent) Data streams executing **Sense-Interpret-Plan-Act-Evaluate-Adapt (SIPAEA)** framework loops to configure yield and emission footprint balancing profiles, from seconds to quarters.
 :::
 
-::: {.carousel-item style="min-height: 160px; padding: 2.5rem 4rem; background-color: #FFF4E6; border-left: 6px solid #F0AD4E;"}
-#### 🛡️ {{< iconify material-symbols encrypted >}} **GuardSoS (Governance & Security)**
+::: {.carousel-item style="min-height: 160px; padding: 1.25rem 6rem; background-color: #FFF4E6; border-left: 6px solid #F0AD4E;"}
+### 🛡️ {{< iconify material-symbols encrypted >}} **GuardSoS (Governance & Security)**
 
-(Reliable) Systems integrating hardware-based **Trusted Execution Environments (TEEs)** and private or public cloud-based **"International Data Space"** (including European Industrial Data Space) to ensure sensor data integrity, data sovereignty and federated learning.
+(Reliable) Systems integrating **Trusted Execution Environments (TEEs)** hardwares and **"International Data Space"** (including European Industrial Data Space) private or public clouds to ensure sensor _data integrity_, _data sovereignty_ and _federated learning_.
 :::
 
-::: {.carousel-item style="min-height: 160px; padding: 2.5rem 4rem; background-color: #E8F5E9; border-left: 6px solid #28A745;"}
-#### ♻️ {{< iconify material-symbols partner-exchange >}} **AuditSoS (Financial & Supply Chain Innovation)**
+::: {.carousel-item style="min-height: 160px; padding: 1.25rem 6rem; background-color: #E8F5E9; border-left: 6px solid #28A745;"}
+### ♻️ {{< iconify material-symbols partner-exchange >}} **AuditSoS (Financial & Supply Chain Innovation)**
 
-(Compliant) Agentic workflows running **Regenerative Accounting** RegTech and FinTech functions to process and generate certified Digital Product Passports (DPP) for cost-effecitve compliance.
+(Compliant) Agentic workflows running **Regenerative Accounting** _RegTech_ and _FinTech_ functions to process and generate certified **Digital Product Passports** (DPP) for _cost-effecitve compliance_.
 :::
 
 :::
@@ -70,10 +52,27 @@ We bridge the gap between advanced manufacturing physics and absolute sustainabi
 :::
 
 
+::: {.content-container .scvcs-background .welcome}
 
----
+## 📢 Open Call for Research & Industrial Collaboration
 
-## Strategic Value Proposition
+The **SCVCS initiative** is establishing a pioneering **Atoms-to-Law** framework to operationalize a Regenerative Socio-Technical (RST) roadmap for the global semiconductor industry. We are actively seeking to expand our international consortium for upcoming funding tracks.
+
+> ### 🤝 Consortium Expansion Targets:
+> * **2–3 EU/UK Partners:** Specializing in advanced physical metrology, confidential computing (TEEs), or ecological economics.
+> * **1–2 ASEAN Partners:** Semiconductor manufacturing facilities, packaging/testing hubs, or regional Global Business Services (GBS 5.0) networks.
+
+We bridge the gap between advanced manufacturing processing and sustainability metrics by turning compliance into an automated, data-sovereign and trustworthy manufacturing service.
+
+<!-- [Button: Download Consortium Briefing Pack](project.pdf){.btn .btn-outline-primary}  -->
+
+[Learn More About the Project Approach →](project.qmd){.btn .btn-primary}
+
+:::
+
+::: {.callout-important collapse="false"}
+
+### Strategic Value Proposition
 
 Instead of static paper disclosures and retrospective annual audits, the SCVCS infrastructure delivers an integrated Atoms-to-Law pipeline:
 
@@ -82,9 +81,9 @@ Instead of static paper disclosures and retrospective annual audits, the SCVCS i
 * **Cross-border data sovereignty** mapping smoothly across GDPR, CSDDD, REACH, and CBAM frameworks.
 * **Fundable asset tokenization** matching real-time metrology straight to green finance options.
 
----
+:::
 
-## How to Participate
+## 🌟 How to Participate
 
 We are co-designing pilot deployments across the critical EU-Hsinchu-Penang manufacturing axis. If your organization fits one of our target pillars, let's connect:
 
@@ -92,4 +91,16 @@ We are co-designing pilot deployments across the critical EU-Hsinchu-Penang manu
 * **RegTech & Cryptography Labs:** Co-develop Policy-as-Code compilers and secure data-space connectors.
 * **GBS & Supply Chain Network Leads:** Map transnational logistics and lead regional talent upskilling initiatives.
 
-**[Explore Technical Work Packages →](project.qmd)** | **[View Proposal Draft (Part B) →](Part.B.qmd)** | **[Get in Touch / Express Interest →](contact.qmd)**
+::: {.d-md-flex .justify-content-center .gap-3 .my-5}
+
+[Examine <br/> Outputs <br/>→](under_construction.qmd){.btn .btn-primary .px-4 }
+
+[Explore <br/> Project <br/>→](project.qmd){.btn .btn-secondary .px-4 .rounded-pill}
+
+[View Proposal <br/>Drafts (Part B) <br/>→](Part.B.qmd){.btn .btn-primary  .px-4 }
+
+[Explore <br/> Funding Calls <br/>→](horizon/tracker.qmd){.btn .btn-secondary .px-4 .rounded-pill}
+
+[Get in Touch /<br/>  Express Interest <br/>→](contact.qmd){.btn .btn-primary .px-4}
+
+:::
