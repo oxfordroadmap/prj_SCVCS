@@ -1,3 +1,8 @@
+# Quarto execution caches and output generation blocks
+/.quarto/
+/_site/
+/docs/
+
 # Obsidian
 .obsidian/
 *.obsidian

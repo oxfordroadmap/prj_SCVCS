@@ -245,3 +245,10 @@ SCVCS integrates four core domains:
 - [Project Proposal Part B](https://scvcs.footprints.cv/Part.B.html): final editing and diagram polishing
 - [Home Page Landing Design](https://scvcs.footprints.cv/)
 	- OSF.io, etc.
+
+
+---
+
+# Done 
+- quarto add mcanouil/quarto-iconify
+See [iconify](https://icon-sets.iconify.design/)

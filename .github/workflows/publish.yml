@@ -24,6 +24,12 @@ jobs:
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
+      # THE CI FIX: Force-installs/validates both extension tracks without prompting for user input
+      - name: Install Quarto Extensions
+        run: |
+          quarto add quarto-ext/fontawesome --no-prompt
+          quarto add mcanouil/quarto-iconify --no-prompt
+
       - name: Render Quarto Project
         uses: quarto-dev/quarto-actions/render@v2
 
