@@ -17,7 +17,7 @@ website:
   
   page-footer:
     background: "#F6F5F3"
-    center: "© 2026 Liao, Han-Teng (Footprints.CV) · Proposals for EU-ASEAN Semiconductor Research Initiative · Made with {{< fa brands r-project >}} and {{< fa brands quarto >}}"
+    center: "© 2026 Han-Teng Liao (Footprints.CV) · Proposals for EU-ASEAN Semiconductor Research Initiative · Made with {{< fa brands r-project >}} and {{< fa brands quarto >}}"
     right:
       - icon: github
         href: https://github.com/oxfordroadmap/prj_SCVCS
@@ -28,7 +28,7 @@ website:
     search: true
     title: false
     logo: images/logo.png
-    background: "#F6F5F3"
+    # Let the custom.scss fully control the background transitions
     logo-alt: "SCVCS Initiative By Footprints.CV"
     left:
       - href: index.qmd
@@ -63,11 +63,11 @@ format:
   html:
     theme:
       - styles/custom.scss
-      - yeti
+      - flatly
     mainfont: "Nunito Sans"
     toc: true
     link-external-newwindow: true
-    date-format: "MMM YYYY"
+    date-format: "YYYY-MM-DD"
     smooth-scroll: true
     resources:
       - images

@@ -1,194 +1,214 @@
 /*-- scss:defaults --*/
 
+// GeocompX Signature Palette Colors
+$primary:       #1e293b; // Deep slate for high-end text contrast
+//$primary-blue: #0078D4;
+$navbar-bg:     #f8fafc; // Clean slate-tinted off-white background
+$accent-blue:   #0f4c81; // Extracted royal blue from your central 'V'
+$bglight-blue:  #0f4c8133; 
+$accent-green:  #34d399; // Crisp emerald mint for hover indicators/callouts
+//accent-green: #28A745;
+//accent-orange: #F0AD4E;
+$body-bg:       #ffffff;
+$body-color:    #334155;
+$link-color:    #0078D4; // Clean technical blue
+
 // Color Variables
-$primary-blue: #0078D4;
-$accent-orange: #F0AD4E;
-$accent-green: #28A745;
 $light-bg: #F6F5F3;
 $dark-text: #333333;
 $light-text: #666666;
 
 // Typography
-$font-family-sans-serif: "Nunito Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+$font-family-sans-serif: "Nunito Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+$headings-font-weight: 700;
 
 /*-- scss:rules --*/
-
 // Custom Classes
 
-.gradient-text {
-  background: linear-gradient(135deg, $primary-blue 0%, $accent-orange 100%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-  margin: 20px 0;
-}
-
-.welcome-headline {
-  font-size: 3.5rem;
+// Clean Technical Section Headings
+h1, h2, h3, h4, h5, h6 {
+  color: $primary;
   font-weight: 700;
-  color: $primary-blue;
-  margin: 20px 0 10px 0;
-  line-height: 1.2;
+  margin-top: 1.5em;
+}
+// Headings
+h1 {
+  border-bottom: 2px solid #ecf0f1; // Subtle underline instead of thick blue
+  padding-bottom: 0.4rem;
+  font-size: 2rem;
+  font-family: $font-family-sans-serif !important;
 }
 
-.welcome-subheadline {
-  font-size: 1.5rem;
-  font-weight: 400;
-  color: $light-text;
-  margin: 10px 0 30px 0;
+h2, .subtitle {
+  border-bottom: 1px solid #f4f6f6;
+  padding-bottom: 0.3rem;
+  font-size: 1.6rem;
+  font-family: $font-family-sans-serif !important;
 }
 
-.welcome-text {
-  font-size: 1.1rem;
-  line-height: 1.8;
-  color: $dark-text;
-}
 
-.sand-background {
-  background-color: $light-bg;
-  border-radius: 8px;
-}
 
-.scvcs-background {
-  background-color: #fafafa;
-  padding: 40px 0;
-}
-
-.content-container {
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 0 20px;
-}
-
-.welcome {
-  margin: 20px 0;
-}
-
-.feature-box {
-  border-radius: 6px;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-  
-  &:hover {
-    transform: translateY(-4px);
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-  }
-  
-  strong {
-    color: $primary-blue;
-    display: block;
-    margin-bottom: 8px;
-    font-size: 1.1rem;
-  }
-}
-
-// Override navbar styling
-.navbar {
-  background-color: $light-bg !important;
-  border-bottom: 1px solid #e0e0e0;
-  
-  .navbar-brand {
-    font-weight: 700;
-    color: $primary-blue !important;
-    
-    img {
-      max-height: 50px;
-    }
-  }
-  
-  .nav-link {
-    color: $dark-text !important;
-    font-weight: 500;
-    transition: color 0.3s ease;
-    
-    &:hover {
-      color: $primary-blue !important;
-    }
-  }
-}
-
-// Footer styling
-.page-footer {
-  background-color: $light-bg;
-  border-top: 1px solid #e0e0e0;
-  padding: 30px 0;
-  margin-top: 60px;
-}
-
-// Links
+// Global Link Adjustments
 a {
-  color: $primary-blue;
+  color: $link-color;
   text-decoration: none;
   transition: color 0.3s ease;
-  
+
   &:hover {
-    color: darken($primary-blue, 15%);
+    color: darken($link-color, 15%);
     text-decoration: underline;
   }
 }
 
-// Headings
-h1, h2, h3, h4, h5, h6 {
-  color: $dark-text;
-  font-weight: 600;
+// existing styles
+.gradient-text {
+  // Swapped $primary-blue to $navbar-bg (Deep Teal) and $accent-orange to $accent-green (Mint)
+  background: linear-gradient(135deg, $navbar-bg 0%, $accent-green 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  margin: 20px 0;
+  display: inline-block; /* Crucial fix for gradient clipping behavior in some browsers */
 }
 
-h1 {
-  border-bottom: 3px solid $primary-blue;
-  padding-bottom: 10px;
-  margin-bottom: 20px;
+// Landing/Hero Page Adjustments (Keeps your custom component layouts)
+.welcome-headline {
+  font-size: 3rem;
+  font-weight: 800;
+  color: $navbar-bg;
+  letter-spacing: -0.03em;
+}
+
+.welcome-subheadline {
+  font-size: 1.35rem;
+  color: #7f8c8d;
+}
+
+.feature-box {
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 6px;
+  padding: 20px;
+  
+  &:hover {
+    border-color: $accent-green;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.05);
+    transform: translateY(-2px);
+  }  
+  strong {
+    font-size: 1.15rem;
+  }
+}
+
+
+// Polished Light Technical Navbar
+.navbar {
+  background-color: $navbar-bg !important;
+  border-bottom: 1px solid #e2e8f0; // Subtle gray divider instead of a heavy bar
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.02);
+  font-family: $font-family-sans-serif !important;
+
+
+  .navbar-brand {
+    padding-top: 0.1rem;
+    padding-bottom: 0.1rem;
+
+    img {
+      max-height: 75px; 
+      // Using a transparent PNG version allows the native shadow of the 3D ring to blend seamlessly      
+      background-color: transparent !important;
+    }
+ 
+    filter: drop-shadow(0px 1px 2px rgba(0,0,0,0.1));
+  }
+
+  // Target the navigation links precisely
+  .nav-link {
+    color: #475569 !important; // Sophisticated dark charcoal for light mode
+    font-family: $font-family-sans-serif !important;
+    font-weight: 600;
+    font-size: 1.25rem;
+    letter-spacing: 0.02em;   // Subtle tracking boost for cleaner readability
+    padding: 0.5rem 0.85rem !important;
+    transition: all 0.25s ease; 
+
+    &:hover, &.active {
+      color: $accent-blue !important; // Changes to your logo's royal blue on focus
+      background-color: $bglight-blue; // Soft indicator block
+      border-radius: 4px;    }
+  }
 }
 
 // Code blocks
+// Technical Markdown Components (Code & Execution blocks)
 code {
-  background-color: #f5f5f5;
-  padding: 2px 6px;
-  border-radius: 4px;
+  background-color: #f8f9fa;
+  color: #e74c3c; // Sharp inline variable highlight 
+  padding: 0.2em 0.4em;
+  border-radius: 3px;
   font-family: "Courier New", monospace;
+  font-size: 85%;
+  border: 1px solid #eaeded;
 }
 
 pre {
-  background-color: #f5f5f5;
-  border-left: 4px solid $primary-blue;
-  padding: 15px;
+  background-color: #f8f9fa !important;
+  border-left: 4px solid $navbar-bg !important; // Technical accent strip
+  border: 1px solid #e2e8f0;
   border-radius: 4px;
+  padding: 1rem;
+}
+
+// Book/Report Style Callouts
+.callout {
+  border-left-width: 5px;
+  border-radius: 4px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.05);
 }
 
 // Tables
 table {
   border-collapse: collapse;
-  width: 100%;
-  margin: 20px 0;
-  
+  margin: 1rem 0;
   th {
-    background-color: $light-bg;
-    color: $dark-text;
+    background-color: #f8f9fa;
+    color: $primary;
+    border-bottom: 2px solid $navbar-bg;
     font-weight: 600;
-    padding: 12px;
-    text-align: left;
-    border-bottom: 2px solid $primary-blue;
+    text-align: center;
   }
-  
   td {
-    padding: 12px;
-    border-bottom: 1px solid #e0e0e0;
-  }
-  
+    padding: 10px;
+    border-bottom: 1px solid #efefef;
+  } 
   tr:hover {
     background-color: #f9f9f9;
   }
 }
 
+
+// Footer styling
+.page-footer {
+  background-color: #f8f9fa;
+  border-top: 1px solid #e2e8f0;
+  color: #7f8c8d;
+  font-size: 0.9rem;
+}
+
+
 // Responsive adjustments
 @media (max-width: 768px) {
   .welcome-headline {
-    font-size: 2.5rem;
+    font-size: 2.2rem;   // Slightly smaller to match the tighter GeocompX layout
+    letter-spacing: -0.02em;
   }
   
   .welcome-subheadline {
-    font-size: 1.2rem;
+    font-size: 1.15rem;  // Scaled down beautifully for mobile line-heights
   }
   
   .feature-box {
-    margin-bottom: 15px;
+    margin-bottom: 15px; // Keeps stacked grid elements from touching on mobile screens
+    padding: 15px;       // Marginally tightens mobile box padding  
   }
 }
