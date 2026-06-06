@@ -3,6 +3,7 @@ title: "SCVCS: SSbD Chips Value Chain Services"
 subtitle: "EU-ASEAN Research Initiative for Sustainable Semiconductor Manufacturing"
 page-layout: full
 ---
+
 ::: {.feature-box style="background: #E8F5E9; padding: 15px; border-left: 4px solid #28A745; margin-bottom: 15px;"}
 ♻️ **SSbD (Safe and Sustainable by Design)** See [EU SSbD Hub](https://www.safeandsustainablebydesign.eu/ssbd/), [PARC SSbD Toolbox](https://www.parc-ssbd.eu/), [IRISS](https://iriss-ssbd.eu/iriss)
 
@@ -11,13 +12,9 @@ Once [a voluntary approach](https://publications.jrc.ec.europa.eu/repository/han
 Aiming to support researarch and innovation (R&I) and product development, SSbD brings economic, environmental and social value, including zero pollution for a toxic-free environment.
 
 Keywords: Safety of chemicals, "Dangerous Substances Directive" (DSD), Green Chemistry, Green Engineering, Sustainable Development Goals (SDGs), cost-effectiveness, regulatory requirements, Continuous Integration (CI), Continuous Delivery (CD)
-
 :::
 
 ::: {.content-container .scvcs-background .welcome}
-::: {.grid}
-
-::: {.g-col-12 .g-col-lg-7 .welcome-text .sand-background style="padding: 30px; border-radius: 8px;"}
 
 ## 📢 Open Call for Research & Industrial Collaboration
 
@@ -34,7 +31,6 @@ We bridge the gap between advanced manufacturing physics and absolute sustainabi
 
 :::
 
-::: {.g-col-12 .g-col-lg-5 style="padding: 20px;"}
 
 ### The SCVCS Pillars (System of Systems)
 
@@ -51,10 +47,6 @@ Hardware-rooted Trusted Execution Environments (TEEs) ensuring data sovereignty 
 ::: {.feature-box style="background: #E8F5E9; padding: 15px; border-left: 4px solid #28A745; margin-bottom: 15px;"}
 ♻️ **AuditSoS (Financial & Supply Chain Innovation)**
 Regeneratively accountable Scope 3 footprints translated into certified Digital Product Passports (DPP).
-:::
-
-:::
-:::
 :::
 
 ---
