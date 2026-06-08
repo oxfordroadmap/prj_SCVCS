@@ -1,20 +1,14 @@
 ---
 title: "⬤ Journal Articles (Indexed)"
 subtitle: "Archival journal publications and indexed literature records"
-# This line tells Quarto to use the multibib extension
 filters:
   - multibib
+citeproc: false
+validate-yaml: false
 csl: ../styles_csl/apa-single-spaced.csl
-bibliography_active: ../bibliography/journal_articles.bib
-bibliography_past: ../bibliography/journal_articles_past.bib
-# MUST include this to tell the extension which lists to create
-multibib:
-  refs-active:
-    bibliography: bibliography_active
-  refs-past:
-    bibliography: bibliography_past
-nocite: |
-  @*
+bibliography:
+  active: ../bibliography/journal_articles.bib
+  past: ../bibliography/journal_articles_past.bib
 ---
 
 ::: {.callout-important appearance="simple" icon=false .mb-4 style="border-left: 3px solid #475569; padding: 0.75rem 1rem; background-color: #f8fafc;"}
@@ -22,7 +16,10 @@ nocite: |
 :::
 
 ## 🚀 Active Project Manifest (2026+)
-::: {#refs-active .quarto-listing-table}
+::: {.nocite}
+@*
+:::
+::: {#refs-active}
 :::
 
 ::: {.callout-tip appearance="simple" icon=false .my-4 style="border-left: 3px solid #0078D4; padding: 0.75rem 1rem; background-color: #f0f7ff; font-size: 0.9rem;"}
@@ -31,10 +28,19 @@ nocite: |
 
 ---
 
+
+\newpage
+
+
 ## 🔬 Foundational Contextual Portfolio (Pre-2025)
 
-::: {#refs-past .quarto-listing-table}
+Our research group maps the Green Digital Transformation (GDT) trajectory, evolving from high-level carbon metrics to operational ecosystem design. The socio-technical foundations of our work are grounded in the initial scientometric analysis of carbon neutrality policies [@Zhang-2021-Carbon_Neutrality] and the subsequent development of resilience taxonomies for global supply chains [@Pan-2023-Supply_Chain_Resilience; @Liao-2023-Intelligent_Ports]. We have since operationalized these frameworks through smart digital platforms for carbon-neutral service design [@Liao-2023-SmartDigitalPlatforms] and ESG capability building via partner maps [@Liao-2023-Collaborating_ESG_Consulting], culminating in our integrated framework for ecosystem-inspired sustainable innovation [@Liao-2024-Digital_Transformation_Innovation_Ecosystems].
+
+### References
+
+::: {#refs-past}
 :::
+
 
 ## 💾 Download Journal Citations
 
