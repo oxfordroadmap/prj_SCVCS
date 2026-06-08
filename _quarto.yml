@@ -42,7 +42,7 @@ website:
           - text: "---"
           - text: "◕✅Peer-Reviewed Papers"
             href: publications/peer-reviewed.qmd # <--- And link to your new file
-          - text: "⬤✅Journal Articles (Indexed)"
+          - text: "⬤🏛️Journal Articles (Indexed)"
             href: publications/journal-articles.qmd # <--- And link to your new file
       - text: "Posts"
         menu:
