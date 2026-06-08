@@ -16,6 +16,11 @@ bibliography:
 :::
 
 ## 🚀 Active Project Manifest (2026+)
+
+(Currently None)
+
+We are actively curating the latest publications from our collaborative research clusters. You can explore our ongoing literature monitoring in our Zotero collections: [GBS & GCC](https://www.zotero.org/groups/6541024/gbsgcc/library), [IRDS](https://www.zotero.org/groups/6538721/irds/library), and [iSSdB](https://www.zotero.org/groups/6579175/issbd/library). Please contact us if you would like to discuss how your work aligns with our research roadmap or context.  
+
 ::: {.nocite}
 @*
 :::
