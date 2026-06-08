@@ -7,32 +7,38 @@ nocite: |
   @*
 ---
 
-::: {.d-flex .gap-2 .mb-4 .border-bottom .pb-3}
-💾 [Download Raw BibTeX Database (working_papers.bib)](../bibliography/working_papers.bib){.btn .btn-outline-primary .btn-sm}
-:::
+## 🚀 Working Papers By Area
 
-The following engineering drafts and socio-technical specifications represent active research frontiers:
+The main thread is to build a System of Systems (SoS), starting for the Semiconductor and AI sectors, by integrating Industry 5.0 processes with relevant International/Industrial Spaces, RegTech, and FinTech, for delivering architectures and artifacts supporting twin transitions. 
 
-::: {#refs .font-sans-serif .font-size-09}
-:::
+### 🔬⚡📡 RealSoS Engine
+
+The RealSoS Engine consists of technical architectures and artifacts to support both regulatory compliance and industrial marketing requirements (e.g., CBAM, SSbD, etc.) with meaningful use of **agentic and physical AI** to solve existing upcoming issues.
+
+#### _CCC4SSbD_ Trustworthy Smart Fabs via Professional Proxies: Scaling Safe and Sustainable by Design (SSbD) through Industrial Data Spaces
+
+##### Descriptions
+
+Addressing emerging technologies such as **Dynamic Intelligence**, [**Cognitive Computing Continuum** (CCC)](https://link.springer.com/article/10.1007/s10723-025-09810-9), industrial "Grid-to-Core" strategies and the **Edge–Cloud Continuum**, [@Ang-2026-CCC-Dynamic-Intelligence] formalizes a socio-technical governance layer called the SIPAEA (Sense-Interpret-Plan-Act-Evaluate-Adapt) framework for designing **agentic and physical AI** in Semiconductor Smart Fabs.  By repurposing or transforming industrial edge-cloud **Grid Computing** systems into a **Cognitive Computing Continuum** (CCC) that handles both production performance and environmental parameters simultaneously, this "Atoms-to-Law" framework integrates Virtual Metrology (VM) for atomic process modeling with Cognitive Soft-Sensing for resources such as water reclamation systems, matching extreme precision metrics with real-time legal obligations.
+
+##### **Deliverables**
+
+Architectural and conceptual tools to extend traditional reactive automation into multi-loop reflective governance:
+
+- **D.CCC.1: SIPAEA Multi-Loop Cybernetic Control Engine** – Software orchestration stack deployed across edge-cloud clusters to execute real-time balancing between chip operational yield and environmental thresholds.
+- **D.CCC.2: Cognitive Soft-Sensing Toolkit for Resource Circularity** – Predictive modeling suite trained on fab facility data to track real-time chemical and water reclamation cycles, establishing verifiable ESG metrics, allowing yield-waste-emission harmonization.
+- **D.CCC.3: Technology Roadmaps for IRDS, SEMI, and SSbD stakeholders** – A strategic framework detailing the integration of SIPAEA governance into existing EU data space architectures, providing a roadmap for evolving legacy platforms into compliance-native, agentic SoS environments.
+
+##### **TRL: 1–3** 
+> TRL: 1–3 (Basic Principles Observed to Proof of Concept)
+
+The SIPAEA framework is currently in the foundational phase. Work is concentrated on mapping "Atoms-to-Law" scientific principles onto established EU-funded architectural blueprints (e.g., IDS-compliant connectors, Gaia-X). We are currently formalizing the socio-technical governance logic and developing initial proofs-of-concept for CCC integration.
+
+##### Summary
+We are architecting the next generation of compliance-native Smart Fabs by embedding multi-loop AI governance directly into existing industrial data ecosystems.
 
 ---
 
-## Working Papers By Area
-
-### 🔬 RealSoS Engine
-
-- 388 [Dynamic Intelligence and Connectivity in the Edge–Cloud Continuum] Nerves of the Semiconductor Smart Fabs: Time-sensitive Dynamic Intelligence for Both Yield and SSbD Compliance
-    - To manage sub-2nm angstrom-scale fabrication complexities, this pillar transitions industrial edge-cloud systems into a Cognitive Computing Continuum (CCC) that handles both production performance and environmental parameters simultaneously. It formalizes a socio-technical governance layer called the SIPAEA (Sense-Interpret-Plan-Act-Evaluate-Adapt) framework to extend traditional reactive automation into multi-loop reflective governance. This "Atoms-to-Law" framework integrates Virtual Metrology (VM) for atomic process modeling with Cognitive Soft-Sensing for resources such as water reclamation systems, matching extreme precision metrics with real-time legal obligations.
-    - **Deliverables**:
-        - **D2.1: SIPAEA Multi-Loop Cybernetic Control Engine** – Software orchestration stack deployed across edge-cloud clusters to execute real-time balancing between chip operational yield and environmental thresholds.
-        - **D2.2: Cognitive Soft-Sensing Toolkit for Resource Circularity** – Predictive modeling suite trained on fab facility data to track real-time chemical and water reclamation cycles, establishing verifiable ESG metrics, allowing yield-waste-emission harmonization.
-- 286 [TEC - TECHNOLOGY] Scoping Review of AI, Metrology, and ESG in the Semiconductor Sector: Implications for Safe and Sustainable by Design (SSbD
-    - This pillar delivers a comprehensive systematic review mapping the "core-periphery" knowledge structures across 1,465 baseline academic and industrial source documents to uncover critical technology gaps in semiconductor lifecycles. It assesses the current landscape of global RegTech platforms—such as EcoVadis, IntegrityNext, and Workiva—revealing a significant architectural deficit regarding specialized metrology data integration and standard alignment. The resulting meta-framework connects industrial analytics with international sustainability mandates (e.g., ITU-T L.1470/L.1480, IEEE 7000) to construct an interoperable System of Systems (SoS) approach for semiconductor manufacturing.
-    - **Deliverables**:
-        - **D3.1: Semiconductor Metrology-ESG Knowledge Map & Repository** – An indexed, open-access database compiling bibliometric data, knowledge graphs, and evaluated compliance deficits across international fab platforms.
-        - **D3.2: Layered SSbD architecture for the Semiconductor Industry** — a first-iteration harmonization of the SSbD Stakeholder Agenda and IRDS roadmaps     -
-        - **D3.3: Unified Interoperable SSbD Standards Harmonization Matrix** – Cross-mapping framework translating physical metrology signals and Virtual Metrology outputs directly into audit-ready metrics for EU CBAM and REACH compliance.
 
 ### 🛡️ GuardSoS Gateway
 - 372 [Trustworthy Autonomous AI for Digital Transformation] Scaling Autonomous AI Agents as Regulatory Proxies in Industrial Data Spaces: Architecting Trust in Smart Fab Operations
@@ -55,6 +61,36 @@ The following engineering drafts and socio-technical specifications represent ac
     - **Deliverables**:
         - **D5.1: Regenerative Socio-Technical AI Reference Architecture** – An alternate technical blueprint mapping AI infrastructure flows from "Atoms to Values" instead of simple energy consumption.
         - **D5.2: Metrology-Grounded Digital Product Passport (DPP) Schema** – A standardized metadata schema for hardware lifecycles tracking physical material footprints, cooling-water energy connections, and electronic recycling pathways.
+
+
+### 🧱 Foundational
+
+- 286 [TEC - TECHNOLOGY] Scoping Review of AI, Metrology, and ESG in the Semiconductor Sector: Implications for Safe and Sustainable by Design (SSbD
+    - This pillar delivers a comprehensive systematic review mapping the "core-periphery" knowledge structures across 1,465 baseline academic and industrial source documents to uncover critical technology gaps in semiconductor lifecycles. It assesses the current landscape of global RegTech platforms—such as EcoVadis, IntegrityNext, and Workiva—revealing a significant architectural deficit regarding specialized metrology data integration and standard alignment. The resulting meta-framework connects industrial analytics with international sustainability mandates (e.g., ITU-T L.1470/L.1480, IEEE 7000) to construct an interoperable System of Systems (SoS) approach for semiconductor manufacturing.
+- **Deliverables**:
+    - **D.F.1: Semiconductor Metrology-ESG Knowledge Map & Repository** – An indexed, open-access database compiling bibliometric data, knowledge graphs, and evaluated compliance deficits across international fab platforms.
+    - **D.F.2: Layered SSbD architecture for the Semiconductor Industry** — a first-iteration harmonization of the SSbD Stakeholder Agenda and IRDS roadmaps     -
+    - **D.F.3: Unified Interoperable SSbD Standards Harmonization Matrix** – Cross-mapping framework translating physical metrology signals and Virtual Metrology outputs directly into audit-ready metrics for EU CBAM and REACH compliance.
+
+
+
+We are actively curating the latest publications from our collaborative research clusters. You can explore our ongoing literature monitoring in our Zotero collections: [GBS & GCC](https://www.zotero.org/groups/6541024/gbsgcc/library), [IRDS](https://www.zotero.org/groups/6538721/irds/library), and [iSSdB](https://www.zotero.org/groups/6579175/issbd/library). Please contact us if you would like to discuss how your work aligns with our research roadmap or context.  
+
+
+### References
+
+::: {#refs .font-sans-serif .font-size-09}
+:::
+
+## 💾 Download BibTeX Citations
+::: {.d-flex .gap-2 .mb-4 .border-bottom .pb-3}
+💾 [Download Raw BibTeX Database (working_papers.bib)](../bibliography/working_papers.bib){.btn .btn-outline-primary .btn-sm}
+:::
+
+The following engineering drafts and socio-technical specifications represent active research frontiers:
+
+
+
 
 ### 🦾 Skills 💪
 

@@ -1,17 +1,25 @@
 ---
 title: "◕ Peer-Reviewed Papers & Proceedings"
-subtitle: "Formally reviewed international conference manuscripts and institutional proceedings"
+subtitle: "Validating requirements and architectures"
 bibliography: ../bibliography/peer_reviewed.bib
 csl: ../styles_csl/apa-single-spaced.csl
 nocite: |
   @*
 ---
 
-::: {.d-flex .gap-2 .mb-4 .border-bottom .pb-3}
-💾 [Download Raw BibTeX Database (peer_reviewed.bib)](../bibliography/peer_reviewed.bib){.btn .btn-outline-primary .btn-sm}
-:::
+## 🚀 Active Project Manifest (2026+)
 
-Index of evaluated technological contributions and peer-reviewed system evaluations:
+...
+
+We are actively curating the latest publications from our collaborative research clusters. You can explore our ongoing literature monitoring in our Zotero collections: [GBS & GCC](https://www.zotero.org/groups/6541024/gbsgcc/library), [IRDS](https://www.zotero.org/groups/6538721/irds/library), and [iSSdB](https://www.zotero.org/groups/6579175/issbd/library). Please contact us if you would like to discuss how your work aligns with our research roadmap or context.  
+
+### References
 
 ::: {#refs .font-sans-serif .font-size-09}
+:::
+
+## 💾 Download Journal Citations
+
+::: {.d-flex .gap-2 .mb-4 .border-bottom .pb-3}
+💾 [Download Raw BibTeX Database (peer_reviewed.bib)](../bibliography/peer_reviewed.bib){.btn .btn-outline-primary .btn-sm}
 :::
