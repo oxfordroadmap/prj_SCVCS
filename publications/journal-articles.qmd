@@ -1,8 +1,18 @@
 ---
 title: "⬤ Journal Articles (Indexed)"
 subtitle: "Archival journal publications and indexed literature records"
-bibliography: ../bibliography/journal_articles.bib
+# This line tells Quarto to use the multibib extension
+filters:
+  - multibib
 csl: ../styles_csl/apa-single-spaced.csl
+bibliography_active: ../bibliography/journal_articles.bib
+bibliography_past: ../bibliography/journal_articles_past.bib
+# MUST include this to tell the extension which lists to create
+multibib:
+  refs-active:
+    bibliography: bibliography_active
+  refs-past:
+    bibliography: bibliography_past
 nocite: |
   @*
 ---
@@ -12,7 +22,6 @@ nocite: |
 :::
 
 ## 🚀 Active Project Manifest (2026+)
-
 ::: {#refs-active .quarto-listing-table}
 :::
 
@@ -30,5 +39,6 @@ nocite: |
 ## 💾 Download Journal Citations
 
 ::: {.d-flex .gap-2 .mb-4}
-[💾 Download Journal Citations (.bib)](../bibliography/journal_articles.bib){.btn .btn-outline-primary .btn-sm}
+[💾 Download Past (.bib)](../bibliography/journal_articles_past.bib){.btn .btn-outline-primary .btn-sm}
 :::
+
