@@ -41,9 +41,9 @@ website:
             href: publications/working-papers.qmd # <--- And link to your new file
           - text: "---"
           - text: "◕✅Peer-Reviewed Papers"
-            href: under_construction.qmd # <--- And link to your new file
+            href: publications/peer-reviewed.qmd # <--- And link to your new file
           - text: "⬤✅Journal Articles (Indexed)"
-            href: under_construction.qmd # <--- And link to your new file
+            href: publications/journal-articles.qmd # <--- And link to your new file
       - text: "Posts"
         menu:
           - text: "Insights"

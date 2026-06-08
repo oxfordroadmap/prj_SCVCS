@@ -1,5 +1,21 @@
 ---
-title: "Working Papers"
+title: "◑ Working Papers & Technical Disclosures"
+subtitle: "Pre-prints, system architecture white papers, and active framework developments"
+bibliography: ../bibliography/working_papers.bib
+csl: ../styles_csl/ieee.csl # Structured to technical notation layout
+nocite: |
+  @*
+---
+
+::: {.d-flex .gap-2 .mb-4 .border-bottom .pb-3}
+💾 [Download Raw BibTeX Database (working_papers.bib)](../bibliography/working_papers.bib){.btn .btn-outline-primary .btn-sm}
+:::
+
+The following engineering drafts and socio-technical specifications represent active research frontiers:
+
+::: {#refs .font-sans-serif .font-size-09}
+:::
+
 ---
 
 ## Working Papers By Area

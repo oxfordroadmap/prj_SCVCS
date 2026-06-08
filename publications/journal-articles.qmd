@@ -1,0 +1,30 @@
+---
+title: "⬤ Journal Articles (Indexed)"
+subtitle: "Archival journal publications and indexed literature records"
+bibliography: ../bibliography/journal_articles.bib
+csl: ../styles_csl/apa-single-spaced.csl # APA is excellent for interdisciplinary socio-technical tracking
+nocite: |
+  @*
+---
+
+::: {.callout-important .mb-4 }
+📋 **Delineation:** Literature indexed here published **prior to 2025** establishes the multi-year socio-technical and architectural foundations of our research group. Contributions dated **2026 and onward** directly articulate active, empirical milestones of the current project roadmap.
+:::
+
+::: {.d-flex .gap-2 .mb-5}
+💾 [Download Journal Citations (.bib)](../bibliography/journal_articles.bib){.btn .btn-outline-primary .btn-sm}
+:::
+
+## 🚀 Active Project Manifest (2026+)
+::: {#refs-active .quarto-listing-table}
+:::
+::: {.callout-note .mb-4 }
+📋 **Journal Targets:** Journal of Cleaner Production; [Internet of Things and Cyber-Physical Systems](https://www.sciencedirect.com/special-issue/100JNXQ8LK4); [IEEE Engineering Management Review (EMR)](https://www.ieee-tems.org/engineering-management-review/);  Technological Forecasting and Social Changes.
+::: 
+
+---
+
+
+## 🔬 Foundational Contextual Portfolio (Pre-2025)
+::: {#refs-past .quarto-listing-table}
+:::
