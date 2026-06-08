@@ -37,10 +37,11 @@ website:
         menu:
           - text: "◔⚡Ideation Abstracts"
             href: under_construction.qmd 
-          - text: "---"
           - text: "◑🧪Working Papers"
             href: publications/working-papers.qmd # <--- And link to your new file
           - text: "---"
+          - text: "◕✅Peer-Reviewed Papers"
+            href: under_construction.qmd # <--- And link to your new file
           - text: "⬤✅Journal Articles (Indexed)"
             href: under_construction.qmd # <--- And link to your new file
       - text: "Posts"
