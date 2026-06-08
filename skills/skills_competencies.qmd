@@ -1,0 +1,43 @@
+---
+title: "💪🦾 Skills & Competencies"
+subtitle: "Orchestrating Sustainable AI and Semiconductor Ecosystems: RegTech & FinTech Frameworks"
+---
+
+### 🌐 Hub Overview: Human-in-the-Loop Governance
+
+As industrial automation transitions from reactive logic to multi-loop reflective governance, the limiting factor shifts from hardware capabilities to human-agent orchestration. The **Skills Module (999)** defines the educational architectures, professional competency matrices, and structural capacities required to run the specialized manufacturing, sovereign data fabric, and regenerative accounting services developed across the SCVCS research infrastructure.
+
+---
+
+### 🏫📚 Structure of the Skills Framework
+
+#### _Skills4Ecosystems_ Architectural & Operational Talents for Twin Transitions
+
+##### Descriptions
+This module challenges traditional tech-education siloes by synthesizing engineering innovation with compliance-native financial and regulatory strategy. Designed for regional "Middle Power" hubs managing cross-border complexity, this framework maps out the specific skill pipelines needed to deploy agentic and physical AI within highly regulated semiconductor supply chains. It bridges the gap between factory-floor telemetry and board-level fiduciary and ecological liabilities.
+
+##### **Core Pillars**
+Actionable competency frameworks to transform transactional engineering and business workflows into high-stakes governance roles:
+
+* **Pillar 1: RegTech & Industrial Data Space Stewardship**
+  Competency structures for managing IDS-certified connectors, policy-as-code proxies, and Gaia-X nodes. Focuses on training technical contributors who can translate real-time physical metrology signals into machine-executable regulatory evidence for EU CBAM and REACH compliance.
+  
+* **Pillar 2: FinTech & Regenerative Accounting Competencies**
+  Educational components focused on the Triple Bottom Line (TBL) context. This curriculum prepares financial and operational teams to internalize ecological debt—such as thermodynamic entropy, cooling-water-energy nexus data, and Scope 3 emissions—straight onto corporate balance sheets as active liabilities.
+  
+* **Pillar 3: Human-Agent Co-Design & Cybernetic Control**
+  Training protocols for navigating the Cognitive Computing Continuum (CCC). This structures skills around the SIPAEA (Sense-Interpret-Plan-Act-Evaluate-Adapt) framework, enabling engineers to manage multi-loop physical AI systems that balance chip yield against environmental baselines.
+
+##### **Deliverables**
+Operational toolkits and curricular roadmaps to secure talent pipelines for the AI and semiconductor sectors:
+
+- **D.SKILLS.1: Cross-Border RegTech & FinTech Competency Matrix** – A standardized professional matrix detailing the technical and legal skills required for engineering and global capability center (GCC) talent operating along the EU-Hsinchu-Penang manufacturing corridor.
+- **D.SKILLS.2: Twin Transition Upskilling Curriculum & Living Lab Blueprint** – A modular educational architecture designed alongside ITU ICT-centric innovation tools to support talent upskilling, cross-border carbon data aggregation, and ecosystem co-creation.
+
+##### **TRL: 1–3** > TRL: 1–3 (Basic Principles Observed to Proof of Concept)
+
+The Skills Framework is in its foundational conceptual phase. Work is focused on analyzing existing talent deficits across regional hubs (e.g., Malaysia's MDEC GBS 5.0, Portugal's AICEP, and Poland's ABSL) and aligning educational modules with upcoming international standardization agendas (such as IRDS, SEMI, and IEEE 7000).
+
+##### Summary
+We are building the human foundation for automated compliance, ensuring that workforce capabilities evolve into a strategic competitive advantage capable of navigating geopolitical fractures and planetary boundaries.
+

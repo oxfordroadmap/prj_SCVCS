@@ -58,8 +58,12 @@ website:
         menu:
           - text: "Upcoming Calls"    # The Wiki/Page style
             href: horizon/tracker.qmd
-      - href: services.qmd
-        text: Services & Skills
+      - text: Services & Skills
+        menu:
+          - text: "Services"
+            href: skills/services.qmd 
+          - text: "Skills"
+            href: skills/skills_compentencies.qmd 
       - href: contact.qmd
         text: Contact
 
