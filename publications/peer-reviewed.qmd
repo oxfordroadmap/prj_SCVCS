@@ -2,7 +2,7 @@
 title: "◕ Peer-Reviewed Papers & Proceedings"
 subtitle: "Formally reviewed international conference manuscripts and institutional proceedings"
 bibliography: ../bibliography/peer_reviewed.bib
-csl: ../styles_csl/ieee.csl # Standard IEEE formatting for engineering outputs
+csl: ../styles_csl/apa-single-spaced.csl
 nocite: |
   @*
 ---
