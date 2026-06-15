@@ -2,6 +2,8 @@
 title: "SCVCS: SSbD Chips Value Chain Services"
 subtitle: "EU-ASEAN Research Initiative for Sustainable Semiconductor Manufacturing"
 page-layout: full
+bibliography: bibliography/peer_reviewed.bib
+csl: styles_csl/apa-single-spaced.csl
 ---
 
 ::: {.callout-note collapse="true" appearance="simple" style="background: #E8F5E9"}
@@ -35,7 +37,7 @@ Aiming to support researarch and innovation (R&I) and product development, SSbD 
 ::: {.carousel-item style="min-height: 160px; padding: 1.25rem 6rem; background-color: #FFF4E6; border-left: 6px solid #F0AD4E;"}
 ### 🛡️ {{< iconify material-symbols encrypted >}} **GuardSoS (Governance & Security)**
 
-(Reliable) Systems integrating **Trusted Execution Environments (TEEs)** hardwares and **"International Data Space"** (including European Industrial Data Space) private or public clouds to ensure sensor _data integrity_, _data sovereignty_ and _federated learning_.
+(Reliable) Systems integrating **Trusted Execution Environments (TEEs)** hardwares and **"International Data Space"** (including European Industrial Data Space) private or public clouds to ensure sensor _data integrity_, _data sovereignty_ and _federated learning_.[@Liao-2026-SSbD-IDS-preprint]
 :::
 
 ::: {.carousel-item style="min-height: 160px; padding: 1.25rem 6rem; background-color: #E8F5E9; border-left: 6px solid #28A745;"}
